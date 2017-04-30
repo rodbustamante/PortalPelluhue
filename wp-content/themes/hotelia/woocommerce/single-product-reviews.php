@@ -16,10 +16,7 @@ if ( ! comments_open() )
 ?>
 <div id="reviews">				
 		<div class="text-dark-blue text-center fancy-heading"><h1 class="font-500"><?php
-			if ( get_option( 'woocommerce_enable_review_rating' ) === 'yes' && ( $count = $product->get_rating_count() ) )
-				printf( _n( '%s review for %s', '%s reviews for %s', $count, 'hotelia' ), $count, get_the_title() );
-			else
-				_e( 'Reviews', 'hotelia' );
+				_e( 'Comentarios', 'hotelia' );
 		?></h1><hr class="text-dark-blue"></div>
 
 		<div id="review-slider">
@@ -64,7 +61,7 @@ if ( ! comments_open() )
 								$commenter = wp_get_current_commenter();
 
 								$comment_form = array(
-									'title_reply'          => have_comments() ? __( 'Add a review', 'woocommerce' ) : __( 'Be the first to review', 'woocommerce' ) . ' &ldquo;' . get_the_title() . '&rdquo;',
+									'title_reply'          => have_comments() ? __( 'Escribe un comentario', 'woocommerce' ) : __( 'Be the first to review', 'woocommerce' ) . ' &ldquo;' . get_the_title() . '&rdquo;',
 									'title_reply_to'       => __( 'Leave a Reply to %s', 'woocommerce' ),
 									'comment_notes_before' => '',
 									'comment_notes_after'  => '',
@@ -74,23 +71,23 @@ if ( ! comments_open() )
 										'email'  => '<p class="comment-form-email"><label for="email">' . __( 'Email', 'woocommerce' ) . ' <span class="required">*</span></label> ' .
 										            '<input id="email" name="email" type="text" value="' . esc_attr(  $commenter['comment_author_email'] ) . '" size="30" aria-required="true" /></p>',
 									),
-									'label_submit'  => __( 'Submit', 'woocommerce' ),
+									'label_submit'  => __( 'Enviar', 'woocommerce' ),
 									'logged_in_as'  => '',
 									'comment_field' => ''
 								);
 
 								if ( get_option( 'woocommerce_enable_review_rating' ) === 'yes' ) {
-									$comment_form['comment_field'] = '<p class="comment-form-rating"><label for="rating">' . __( 'Your Rating', 'woocommerce' ) .'</label><select name="rating" id="rating">
-										<option value="">' . __( 'Rate&hellip;', 'woocommerce' ) . '</option>
-										<option value="5">' . __( 'Perfect', 'woocommerce' ) . '</option>
-										<option value="4">' . __( 'Good', 'woocommerce' ) . '</option>
-										<option value="3">' . __( 'Average', 'woocommerce' ) . '</option>
-										<option value="2">' . __( 'Not that bad', 'woocommerce' ) . '</option>
-										<option value="1">' . __( 'Very Poor', 'woocommerce' ) . '</option>
+									$comment_form['comment_field'] = '<p class="comment-form-rating"><label for="rating">' . __( 'Tu valoración', 'woocommerce' ) .'</label><select name="rating" id="rating">
+										<option value="">' . __( '	Rate&hellip;', 'woocommerce' ) . '</option>
+										<option value="5">' . __( 'Perfecto', 'woocommerce' ) . '</option>
+										<option value="4">' . __( 'Bueno', 'woocommerce' ) . '</option>
+										<option value="3">' . __( 'Regular', 'woocommerce' ) . '</option>
+										<option value="2">' . __( 'No tan mal', 'woocommerce' ) . '</option>
+										<option value="1">' . __( 'Mal', 'woocommerce' ) . '</option>
 									</select></p>';
 								}
 
-								$comment_form['comment_field'] .= '<p class="comment-form-comment"><label for="comment">' . __( 'Your Review', 'woocommerce' ) . '</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>';
+								$comment_form['comment_field'] .= '<p class="comment-form-comment"><label for="comment">' . __( 'Tu comentario', 'woocommerce' ) . '</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>';
 
 								comment_form( apply_filters( 'woocommerce_product_review_comment_form_args', $comment_form ) );
 							?>
@@ -108,5 +105,5 @@ if ( ! comments_open() )
 			</ul>
 		</div>
 		<br>
-		<a href="#" class="uppercase text-green hover-text-dark-green review-nav" data-target="next"><i class="icon-366"></i> <?php esc_html_e( 'Write a review', 'hotelia' ); ?></a>
+		<a href="#" class="uppercase text-green hover-text-dark-green review-nav" data-target="next"><i class="icon-366"></i> <?php esc_html_e( 'Escribe un comentario', 'hotelia' ); ?></a>
 </div>

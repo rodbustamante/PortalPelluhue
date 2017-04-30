@@ -52,14 +52,14 @@
 			<div class="nav-bar sticky-bar white"> <!-- .mega-menu helper class used as switcher -->
 				<div class="container">
 					<?php navigation_settings(); ?>
-					<?php if(empty($hide_room_search)): ?>
-						<a href="#" class="room-search-switcher green"><i class="icon-3"></i></a>
-					<?php endif; ?>
+					<?php //if(empty($hide_room_search)): ?>
+						<!-- <a href="#" class="room-search-switcher green"><i class="icon-3"></i></a> -->
+					<?php //endif; ?>
 				</div><!-- /.container -->
 			</div><!-- /.nav-bar -->
 		</header> <!-- /.main-nav -->
 		
-		<?php if(empty($hide_room_search)): ?>
+		<!-- <?php if(empty($hide_room_search)): ?>
 		<div class="header-find-room">
 			<div class="booking-form grey">
 				<div class="container">
@@ -67,6 +67,6 @@
 				</div>
 			</div>
 		</div>
-		<?php endif; ?>
+		<?php endif; ?> -->
 
 		<!-- main content -->

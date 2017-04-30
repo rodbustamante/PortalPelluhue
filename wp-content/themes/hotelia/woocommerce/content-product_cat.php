@@ -43,7 +43,7 @@ $woocommerce_loop['loop']++;
 			 */
 			do_action( 'woocommerce_before_subcategory_title', $category );
 		?>
-
+		
 		<h3>
 			<?php
 				echo $category->name;

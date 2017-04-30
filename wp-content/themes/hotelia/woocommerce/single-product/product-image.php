@@ -27,7 +27,8 @@ if( has_post_thumbnail() && !empty($attachment_ids)) {
 						$image_title = esc_attr( get_the_title( $id ) );
 						$image_link  = wp_get_attachment_url( $id );
 						$image       = wp_get_attachment_image( $id, apply_filters( 'single_product_large_thumbnail_size', 'full' ), array(
-							'title' => $image_title
+							'title' => $image_title,
+							'max-height: 600px'
 						) );
 			?>
 			<li>

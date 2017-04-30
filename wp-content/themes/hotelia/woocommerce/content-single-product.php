@@ -22,67 +22,35 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		</div>
 	</div> <!-- /.container -->
 </section> <!-- /.box -->
-<section>
+
+<section class="box" style="padding:0px;">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8">
-				<div class="grey room-disponibility text-center">
-					<div class="row">
-						<div class="col-md-4">
-							<?php _e('Room is available','hotelia') ?>
-						</div>
-						<div class="col-md-3">
-							<span class="white">
-								<?php
-
-									$room_available_from = get_post_meta(get_the_ID(), '_available_room_from');
-									echo !empty($room_available_from[0]) ? $room_available_from[0] : '-'; ?>
-							</span>
-						</div>
-						<div class="col-md-1">
-							-
-						</div>
-						<div class="col-md-3">
-							<span class="white">
-								<?php
-									$room_available_to = get_post_meta(get_the_ID(), '_available_room_to');
-									echo !empty($room_available_to[0]) ? $room_available_to[0] : '-'; ?>								
-							</span>
-						</div>
-					</div>
-				</div>
-				
-
+			<div class="col-md-12">
 				<div class="row">
-					<div class="col-md-6">
-						<?php wc_get_template( 'single-product/rating.php' ); ?>
-						<?php the_excerpt(); ?>
+					<div class="col-md-6 text-center font-2x">
+						<?php
+						global $post, $product;
+						?>
+						<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+
+							<p class="price"><?php echo $product->get_price_html(); ?></p>
+
+							<meta itemprop="price" content="<?php echo $product->get_price(); ?>" />
+						</div>
 					</div>
 					<div class="col-md-6">
 						<?php wc_get_template( 'single-product/meta.php' ); ?>
 					</div>
 				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="text-center font-2x">
-					<?php wc_get_template( 'single-product/price.php' ); ?>
-				</div>
-				<div class="add-cart text-center">
-					<?php woocommerce_template_single_add_to_cart(); ?>					
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<section class="box">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-7">
+				<br>
 				<?php wc_get_template( 'single-product/tabs/description.php' ); ?>				
 			</div>
-			<div class="col-md-5">
+		</div>
+		<div class="row">
+			<div class="col-md-12">
 				<?php comments_template(); ?>
-			</div>
+			</div>	
 		</div>
 	</div>
 </section>

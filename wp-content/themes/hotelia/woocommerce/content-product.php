@@ -64,7 +64,8 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 			<div class="rooms-footer clearfix">
 				
 				<?php wc_get_template( 'loop/price.php' ); ?>
-				<?php wc_get_template( 'loop/add-to-cart.php' ); ?>
+				<a href="<?php the_permalink(); ?>" class="button-sm to-right grey text-black hover-orange soft-corners add_to_cart_button product_type_simple"><?php echo __('Ver Mas'); ?></a>
+				<?php //wc_get_template( 'loop/add-to-cart.php' ); ?>
 			</div>
 		</div>
 	</div>
