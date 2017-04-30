@@ -1,0 +1,109 @@
+Version 2.2.8 - 12.06.2016
+================================================
+Updated	:	Visual Composer
+Updated	:	Revolution Slider
+Added: 		Footer copyright message
+
+
+Version 2.2.7 - 29.04.2016
+================================================
+Updated	:	Visual Composer 4.11.2
+Updated	:	Revolution Slider 5.2.5
+Fixed	:	Demo content import file
+
+Version 2.2.6 - 01.04.2016
+================================================
+Updated	:	Visual Composer 4.11.1
+Updated	:	Revolution Slider 5.2.3
+
+Version 2.2.5 - 10.12.2015
+================================================
+Updated	:	Visual Composer 4.9
+Updated	:	Revolution Slider 5.1.3
+Fixed	:	My account, Translation isssue
+Added	:	Russian .mo .po file
+
+Version 2.2.4 - 05.10.2015
+================================================
+Updated	:	VC Heading element
+
+Version 2.2.3 - 05.10.2015
+================================================
+Updated	:	Visual Composer 4.7.4
+Added   :   Facilities group builder
+
+Version 2.2.2 - 22.09.2015
+================================================
+Fixed	:	TGMP fixes
+Updated	:	Revolution slider 5.0.9
+
+Version 2.2.1 - 17.09.2015
+================================================
+Updated	:	Revolution slider 5.0.8.5
+Updated	:	Visual Composer 4.7.1
+
+Version 2.2 - 03.09.2015
+================================================
+Updated	:	Visual Composer 4.7
+Updated	:	Revolution Slider 5.0.6
+Fixed   :	String Localization
+
+Version 2.1 - 04.08.2015
+================================================
+Updated	:	Visual Composer plugin
+Fixed	:	Minor framework typo 
+
+Version 2.0 - 24.06.2015
+================================================
+Added	:	Fixed woocommerce
+Updated	:	Components style
+
+Version 1.6 - 16.06.2015
+================================================
+Added	:	Plugins update due to security issue
+
+Version 1.5 - 10.06.2015
+================================================
+Added	:	Plugins update 
+Added	:	Framework update
+
+Version 1.4 - 24.03.2015
+================================================
+Fixed	:	Security issues. Updated TGM pluginx 
+
+Version 1.3 - 18.03.2015
+================================================
+Fixed	:	Disabled preloader
+
+Version 1.2 - 06.02.2015
+================================================
+Fixes	:   Custom CSS
+
+Version 1.1.2 - 30.01.2015
+================================================
+Added   :   Updated plugins
+Fixes	:   Minor Responsive Issues
+
+Version 1.1 - 19.12.2014
+================================================
+Added   :   Updated Revolution Slider 4.6.5
+Added   :   Updated Visual Composer 4.3.2
+
+Version 1.0.3 - 09.10.2014
+================================================
+Fixed	:	More minore fixes
+Fixed	:	QueryLoader js error
+Fixed	:	HTML5 Validation errors
+
+Version 1.0.2 - 09.10.2014
+================================================
+Fixed	:	More minore fixes
+
+Version 1.0.1 - 03.10.2014
+================================================
+Fixed	:	Fixed gallery shortcode bug
+
+
+Version 1.0.0 - 26.09.2014
+================================================
+Added	:	Theme launched

@@ -1,0 +1,3786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zero v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-24 08:19:56+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:17
+#@ zero
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:20
+#@ zero
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: content-none.php:1
+#@ zero
+msgid "Nothing Found"
+msgstr ""
+
+#: content.php:17
+#@ zero
+msgid "No title"
+msgstr ""
+
+#: content.php:24
+#@ zero
+msgctxt ""
+msgid ", "
+msgstr ""
+
+#: content.php:28
+#: functions.php:927
+#@ zero
+msgid "Leave a comment"
+msgstr ""
+
+#: content.php:28
+#@ zero
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:28
+#@ zero
+msgid "% Comments"
+msgstr ""
+
+#: content.php:31
+#: functions.php:1006
+#: woocommerce/myaccount/my-address.php:45
+#@ zero
+#@ default
+#@ woocommerce
+msgid "Edit"
+msgstr ""
+
+#: content.php:42
+#@ zero
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:55
+#@ zero
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:56
+#@ zero
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: functions.php:99
+#@ zero
+msgid "Blog Sidebar Area"
+msgstr ""
+
+#: functions.php:101
+#@ zero
+msgid "Sidebar that appears in the header."
+msgstr ""
+
+#: functions.php:108
+#@ zero
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:110
+#@ zero
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: functions.php:500
+#@ zero
+msgid "View cart"
+msgstr ""
+
+#: functions.php:518
+#: woocommerce/cart/cart.php:47
+#@ zero
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: functions.php:521
+#@ zero
+msgid "Unit price "
+msgstr ""
+
+#: functions.php:521
+#@ zero
+msgid "Q-ty: "
+msgstr ""
+
+#: functions.php:526
+#@ zero
+msgid "No items in cart. Keep shopping."
+msgstr ""
+
+#: functions.php:605
+#: shortcodes/lib/post_block/_item.php:20
+#: shortcodes/lib/post_block/horizontal.php:58
+#: shortcodes/lib/post_block/portfolio.php:94
+#: shortcodes/lib/vc_teaser_grid.php:182
+#@ zero
+#@ js_composer
+msgid "Read more"
+msgstr ""
+
+#: functions.php:628
+#@ default
+msgid "Uncategorized"
+msgstr ""
+
+#: functions.php:654
+#: functions.php:660
+#: functions.php:674
+#: functions.php:700
+#: functions.php:706
+#: functions.php:720
+#, php-format
+#@ default
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:763
+#: woocommerce/loop/pagination.php:24
+#@ zero
+msgid "Previous"
+msgstr ""
+
+#: functions.php:764
+#: woocommerce/loop/pagination.php:25
+#@ zero
+msgid "Next"
+msgstr ""
+
+#: functions.php:785
+#@ zero
+msgid "Enter the password below:"
+msgstr ""
+
+#: functions.php:786
+#: shortcodes/lib/subscribe-form.php:23
+#: woocommerce/single-product-reviews.php:67
+#@ default
+#@ zero
+#@ woocommerce
+msgid "Submit"
+msgstr ""
+
+#: functions.php:892
+#: shortcodes/lib/testimonials.php:139
+#: woocommerce/single-product-reviews.php:62
+#@ zero
+#@ js_composer
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: functions.php:896
+#@ zero
+msgid "E-mail"
+msgstr ""
+
+#: functions.php:900
+#@ zero
+msgid "Website"
+msgstr ""
+
+#: functions.php:908
+#, php-format
+#@ zero
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. \n"
+"\t                        <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:917
+#@ zero
+msgid "If you want to share your opinion, leave a comment."
+msgstr ""
+
+#: functions.php:921
+#@ zero
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: functions.php:928
+#, php-format
+#@ zero
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: functions.php:929
+#@ zero
+msgid "Cancel reply"
+msgstr ""
+
+#: functions.php:953
+#@ zero
+msgid "Post comment"
+msgstr ""
+
+#: functions.php:1009
+#@ zero
+msgid "says:"
+msgstr ""
+
+#: functions.php:1013
+#, php-format
+#@ zero
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1018
+#@ zero
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1036
+#@ zero
+msgid " from "
+msgstr ""
+
+#: functions.php:1045
+#@ zero
+msgid "From: "
+msgstr ""
+
+#: functions.php:1046
+#@ zero
+msgid "Reply-To: "
+msgstr ""
+
+#: functions.php:1048
+#@ zero
+msgid "Message successfully sent."
+msgstr ""
+
+#: functions.php:1050
+#@ zero
+msgid "Message could not be sent."
+msgstr ""
+
+#: functions.php:1052
+#@ zero
+msgid "Please fill all the fields in the form."
+msgstr ""
+
+#: plugins/activate-plugins.php:55
+#: plugins/activate-plugins.php:133
+#: plugins/class-tgm-plugin-activation.php:196
+#@ zero
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: plugins/activate-plugins.php:56
+#: plugins/activate-plugins.php:134
+#: plugins/class-tgm-plugin-activation.php:197
+#@ zero
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: plugins/activate-plugins.php:57
+#: plugins/activate-plugins.php:135
+#: plugins/class-tgm-plugin-activation.php:198
+#, php-format
+#@ zero
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: plugins/activate-plugins.php:58
+#: plugins/activate-plugins.php:136
+#@ zero
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: plugins/activate-plugins.php:59
+#: plugins/activate-plugins.php:137
+#: plugins/class-tgm-plugin-activation.php:200
+#, php-format
+#@ zero
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:60
+#: plugins/activate-plugins.php:138
+#: plugins/class-tgm-plugin-activation.php:201
+#, php-format
+#@ zero
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:61
+#: plugins/activate-plugins.php:139
+#: plugins/class-tgm-plugin-activation.php:202
+#, php-format
+#@ zero
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:62
+#: plugins/activate-plugins.php:140
+#: plugins/class-tgm-plugin-activation.php:203
+#, php-format
+#@ zero
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:63
+#: plugins/activate-plugins.php:141
+#: plugins/class-tgm-plugin-activation.php:204
+#, php-format
+#@ zero
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:64
+#: plugins/activate-plugins.php:142
+#: plugins/class-tgm-plugin-activation.php:205
+#, php-format
+#@ zero
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:65
+#: plugins/activate-plugins.php:143
+#: plugins/class-tgm-plugin-activation.php:206
+#, php-format
+#@ zero
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:66
+#: plugins/activate-plugins.php:144
+#: plugins/class-tgm-plugin-activation.php:207
+#, php-format
+#@ zero
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:67
+#: plugins/activate-plugins.php:145
+#: plugins/class-tgm-plugin-activation.php:208
+#@ zero
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:68
+#: plugins/activate-plugins.php:146
+#@ zero
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/activate-plugins.php:69
+#: plugins/activate-plugins.php:147
+#: plugins/class-tgm-plugin-activation.php:210
+#@ zero
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: plugins/activate-plugins.php:70
+#: plugins/activate-plugins.php:148
+#: plugins/class-tgm-plugin-activation.php:212
+#: plugins/class-tgm-plugin-activation.php:1951
+#@ zero
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugins/activate-plugins.php:71
+#: plugins/activate-plugins.php:149
+#, php-format
+#@ zero
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:199
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:209
+#@ zero
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:211
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:214
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:215
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:544
+#: plugins/class-tgm-plugin-activation.php:2168
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1174
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1182
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1188
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1190
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1290
+#: plugins/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1312
+#: plugins/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1380
+#: woocommerce/myaccount/my-orders.php:34
+#@ tgmpa
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1508
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1616
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: plugins/class-tgm-plugin-activation.php:1638
+#: plugins/class-tgm-plugin-activation.php:213
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:1934
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1936
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1937
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1938
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1950
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2064
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2065
+#: plugins/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2065
+#: plugins/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2066
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2075
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:6
+#@ js_composer
+msgid "Accordion"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:11
+#: shortcodes/lib/accordion.php:108
+#: shortcodes/lib/accordion.php:177
+#: shortcodes/lib/button2.php:27
+#: shortcodes/lib/clients.php:82
+#: shortcodes/lib/comment-form.php:53
+#: shortcodes/lib/contact-form.php:86
+#: shortcodes/lib/message.php:16
+#: shortcodes/lib/pricing-table.php:106
+#: shortcodes/lib/progress.php:7
+#: shortcodes/lib/row.php:51
+#: shortcodes/lib/services.php:109
+#: shortcodes/lib/services.php:136
+#: shortcodes/lib/subscribe-form.php:71
+#: shortcodes/lib/team.php:131
+#: shortcodes/lib/testimonials.php:107
+#: shortcodes/lib/testimonials.php:134
+#@ js_composer
+msgid "Content"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:12
+#@ js_composer
+msgid "jQuery UI accordion"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:16
+#: shortcodes/lib/accordion.php:113
+#: shortcodes/lib/accordion.php:183
+#: shortcodes/lib/grid.php:17
+#: shortcodes/lib/menu.php:22
+#: shortcodes/lib/progress.php:12
+#@ js_composer
+msgid "Widget title"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:18
+#: shortcodes/lib/accordion.php:115
+#: shortcodes/lib/accordion.php:185
+#: shortcodes/lib/grid.php:19
+#: shortcodes/lib/progress.php:14
+#@ js_composer
+msgid "Enter text which will be used as widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:22
+#@ js_composer
+msgid "Active tab"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:24
+#@ js_composer
+msgid "Enter tab number to be active on load or enter false to collapse all tabs."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:28
+#@ js_composer
+msgid "Allow collapsible all"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:30
+#@ js_composer
+msgid "Select checkbox to allow all sections to be collapsible."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:31
+#@ js_composer
+msgid "Allow"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:35
+#: shortcodes/lib/accordion.php:147
+#: shortcodes/lib/accordion.php:217
+#: shortcodes/lib/breadcrumbs.php:121
+#: shortcodes/lib/button2.php:75
+#: shortcodes/lib/clients.php:127
+#: shortcodes/lib/comment-form.php:58
+#: shortcodes/lib/contact-form.php:143
+#: shortcodes/lib/grid.php:85
+#: shortcodes/lib/menu.php:51
+#: shortcodes/lib/message.php:57
+#: shortcodes/lib/pricing-table.php:161
+#: shortcodes/lib/progress.php:60
+#: shortcodes/lib/row.php:126
+#: shortcodes/lib/services.php:114
+#: shortcodes/lib/services.php:202
+#: shortcodes/lib/subscribe-form.php:111
+#: shortcodes/lib/team.php:165
+#: shortcodes/lib/testimonials.php:112
+#: shortcodes/lib/testimonials.php:169
+#@ js_composer
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:37
+#: shortcodes/lib/accordion.php:149
+#: shortcodes/lib/accordion.php:219
+#: shortcodes/lib/breadcrumbs.php:123
+#: shortcodes/lib/button2.php:77
+#: shortcodes/lib/clients.php:129
+#: shortcodes/lib/comment-form.php:60
+#: shortcodes/lib/contact-form.php:145
+#: shortcodes/lib/grid.php:87
+#: shortcodes/lib/menu.php:53
+#: shortcodes/lib/message.php:59
+#: shortcodes/lib/pricing-table.php:163
+#: shortcodes/lib/progress.php:62
+#: shortcodes/lib/row.php:128
+#: shortcodes/lib/services.php:116
+#: shortcodes/lib/services.php:204
+#: shortcodes/lib/subscribe-form.php:113
+#: shortcodes/lib/team.php:167
+#: shortcodes/lib/testimonials.php:114
+#: shortcodes/lib/testimonials.php:171
+#@ js_composer
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:41
+#: shortcodes/lib/accordion.php:88
+#: shortcodes/lib/accordion.php:140
+#: shortcodes/lib/accordion.php:210
+#: shortcodes/lib/breadcrumbs.php:127
+#: shortcodes/lib/button2.php:81
+#: shortcodes/lib/contact-form.php:149
+#: shortcodes/lib/contact-form.php:156
+#: shortcodes/lib/message.php:63
+#: shortcodes/lib/pricing-table.php:167
+#: shortcodes/lib/pricing-table.php:174
+#: shortcodes/lib/pricing-table.php:181
+#: shortcodes/lib/row.php:132
+#: shortcodes/lib/services.php:120
+#: shortcodes/lib/services.php:208
+#: shortcodes/lib/services.php:215
+#: shortcodes/lib/subscribe-form.php:117
+#: shortcodes/lib/team.php:171
+#: shortcodes/lib/testimonials.php:118
+#: shortcodes/lib/testimonials.php:175
+#@ js_composer
+msgid "Css"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:44
+#: shortcodes/lib/accordion.php:91
+#: shortcodes/lib/accordion.php:143
+#: shortcodes/lib/accordion.php:213
+#: shortcodes/lib/breadcrumbs.php:130
+#: shortcodes/lib/button2.php:84
+#: shortcodes/lib/contact-form.php:152
+#: shortcodes/lib/message.php:66
+#: shortcodes/lib/pricing-table.php:170
+#: shortcodes/lib/row.php:135
+#: shortcodes/lib/services.php:123
+#: shortcodes/lib/services.php:211
+#: shortcodes/lib/subscribe-form.php:120
+#: shortcodes/lib/testimonials.php:121
+#: shortcodes/lib/testimonials.php:178
+#@ js_composer
+msgid "Design options"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:52
+#@ js_composer
+msgid "Add accordion section"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:56
+#@ js_composer
+msgid "Section 1"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:57
+#@ js_composer
+msgid "Section 2"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:63
+#@ js_composer
+msgid "Accordion Section"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:71
+#: shortcodes/lib/accordion.php:246
+#: shortcodes/lib/grid.php:48
+#@ js_composer
+msgid "Title"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:73
+#@ js_composer
+msgid "Accordion section title."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:77
+#: shortcodes/lib/accordion.php:127
+#: shortcodes/lib/accordion.php:197
+#: shortcodes/lib/pricing-table.php:147
+#@ js_composer
+msgid "Custom text color"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:79
+#: shortcodes/lib/accordion.php:129
+#: shortcodes/lib/accordion.php:199
+#@ js_composer
+msgid "Select text color for Accordion."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:103
+#@ js_composer
+msgid "Tabs"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:109
+#@ js_composer
+msgid "Tabbed content"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:119
+#@ js_composer
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:121
+#: shortcodes/lib/accordion.php:191
+#@ js_composer
+msgid "Disable"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:123
+#@ js_composer
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:133
+#: shortcodes/lib/accordion.php:203
+#@ js_composer
+msgid "Images"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:136
+#: shortcodes/lib/accordion.php:206
+#@ js_composer
+msgid "Select images from media library and use it for thumbnail"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:160
+#@ js_composer
+msgid "Tab 1"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:161
+#@ js_composer
+msgid "Tab 2"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:171
+#@ js_composer
+msgid "Tour Section"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:179
+#@ js_composer
+msgid "Tabbed tour section"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:189
+#@ js_composer
+msgid "Auto rotate slides"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:193
+#@ js_composer
+msgid "Auto rotate slides each X seconds."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:230
+#@ js_composer
+msgid "Slide 1"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:231
+#@ js_composer
+msgid "Slide 2"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:238
+#@ js_composer
+msgid "Tab"
+msgstr ""
+
+#: shortcodes/lib/accordion.php:248
+#@ js_composer
+msgid "Tab title."
+msgstr ""
+
+#: shortcodes/lib/accordion.php:252
+#@ js_composer
+msgid "Tab ID"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:62
+#@ zero
+msgid "Home"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:76
+#@ js_composer
+msgid "Breadcrumbs"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:81
+#@ js_composer
+msgid "Navigation"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:82
+#@ js_composer
+msgid "Add breadcrumbs on your page"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:86
+#: shortcodes/lib/clients.php:101
+#@ js_composer
+msgid "Custom page name"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:88
+#: shortcodes/lib/clients.php:103
+#@ js_composer
+msgid "Add your custom name in the breadcrumbs area"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:92
+#@ js_composer
+msgid "Title size"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:95
+#: shortcodes/lib/breadcrumbs.php:110
+#@ js_composer
+msgid "Title container size."
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:99
+#: shortcodes/lib/clients.php:120
+#: shortcodes/lib/subscribe-form.php:90
+#: shortcodes/lib/team.php:149
+#@ js_composer
+msgid "Title position"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:102
+#: shortcodes/lib/breadcrumbs.php:117
+#: shortcodes/lib/clients.php:123
+#: shortcodes/lib/subscribe-form.php:93
+#: shortcodes/lib/team.php:152
+#@ js_composer
+msgid "Align title."
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:107
+#@ js_composer
+msgid "Nav links size"
+msgstr ""
+
+#: shortcodes/lib/breadcrumbs.php:114
+#@ js_composer
+msgid "Nav links position"
+msgstr ""
+
+#: shortcodes/lib/button2.php:24
+#@ js_composer
+msgid "Button"
+msgstr ""
+
+#: shortcodes/lib/button2.php:27
+#@ js_composer
+msgid "New elements"
+msgstr ""
+
+#: shortcodes/lib/button2.php:28
+#@ js_composer
+msgid "Eye catching button"
+msgstr ""
+
+#: shortcodes/lib/button2.php:32
+#@ js_composer
+msgid "URL (Link)"
+msgstr ""
+
+#: shortcodes/lib/button2.php:34
+#@ js_composer
+msgid "Button link."
+msgstr ""
+
+#: shortcodes/lib/button2.php:38
+#: shortcodes/lib/button2.php:42
+#: shortcodes/lib/vc_button.php:10
+#: shortcodes/lib/vc_button2.php:4
+#: shortcodes/lib/vc_cta_button.php:9
+#: shortcodes/lib/vc_cta_button2.php:22
+#@ js_composer
+msgid "Text on the button"
+msgstr ""
+
+#: shortcodes/lib/button2.php:43
+#@ js_composer
+msgid "Text on the button."
+msgstr ""
+
+#: shortcodes/lib/button2.php:47
+#: shortcodes/lib/message.php:28
+#@ js_composer
+msgid "Style"
+msgstr ""
+
+#: shortcodes/lib/button2.php:50
+#@ js_composer
+msgid "Button style."
+msgstr ""
+
+#: shortcodes/lib/button2.php:54
+#@ js_composer
+msgid "Color"
+msgstr ""
+
+#: shortcodes/lib/button2.php:57
+#@ js_composer
+msgid "Button color."
+msgstr ""
+
+#: shortcodes/lib/button2.php:67
+#@ js_composer
+msgid "Size"
+msgstr ""
+
+#: shortcodes/lib/button2.php:71
+#@ js_composer
+msgid "Button size."
+msgstr ""
+
+#: shortcodes/lib/clients.php:77
+#@ js_composer
+msgid "Clients logos"
+msgstr ""
+
+#: shortcodes/lib/clients.php:83
+#@ js_composer
+msgid "Add Clients logos on your page"
+msgstr ""
+
+#: shortcodes/lib/clients.php:87
+#@ js_composer
+msgid "Clients logos title"
+msgstr ""
+
+#: shortcodes/lib/clients.php:89
+#@ js_composer
+msgid "Please provide a title for the client logo's section "
+msgstr ""
+
+#: shortcodes/lib/clients.php:93
+#: shortcodes/lib/contact-form.php:135
+#: shortcodes/lib/message.php:4
+#: shortcodes/lib/pricing-table.php:153
+#: shortcodes/lib/services.php:188
+#: shortcodes/lib/subscribe-form.php:82
+#: shortcodes/lib/team.php:156
+#@ js_composer
+msgid "CSS Animation"
+msgstr ""
+
+#: shortcodes/lib/clients.php:96
+#: shortcodes/lib/contact-form.php:138
+#: shortcodes/lib/message.php:7
+#: shortcodes/lib/pricing-table.php:156
+#: shortcodes/lib/services.php:191
+#: shortcodes/lib/subscribe-form.php:85
+#: shortcodes/lib/team.php:159
+#@ js_composer
+msgid "No"
+msgstr ""
+
+#: shortcodes/lib/clients.php:96
+#: shortcodes/lib/contact-form.php:138
+#: shortcodes/lib/message.php:7
+#: shortcodes/lib/pricing-table.php:156
+#: shortcodes/lib/services.php:191
+#: shortcodes/lib/subscribe-form.php:85
+#: shortcodes/lib/team.php:159
+#@ js_composer
+msgid "Top to bottom"
+msgstr ""
+
+#: shortcodes/lib/clients.php:96
+#: shortcodes/lib/contact-form.php:138
+#: shortcodes/lib/message.php:7
+#: shortcodes/lib/pricing-table.php:156
+#: shortcodes/lib/services.php:191
+#: shortcodes/lib/subscribe-form.php:85
+#: shortcodes/lib/team.php:159
+#@ js_composer
+msgid "Bottom to top"
+msgstr ""
+
+#: shortcodes/lib/clients.php:96
+#: shortcodes/lib/contact-form.php:138
+#: shortcodes/lib/message.php:7
+#: shortcodes/lib/pricing-table.php:156
+#: shortcodes/lib/services.php:191
+#: shortcodes/lib/subscribe-form.php:85
+#: shortcodes/lib/team.php:159
+#@ js_composer
+msgid "Left to right"
+msgstr ""
+
+#: shortcodes/lib/clients.php:96
+#: shortcodes/lib/contact-form.php:138
+#: shortcodes/lib/message.php:7
+#: shortcodes/lib/pricing-table.php:156
+#: shortcodes/lib/services.php:191
+#: shortcodes/lib/subscribe-form.php:85
+#: shortcodes/lib/team.php:159
+#@ js_composer
+msgid "Right to left"
+msgstr ""
+
+#: shortcodes/lib/clients.php:96
+#: shortcodes/lib/contact-form.php:138
+#: shortcodes/lib/message.php:7
+#: shortcodes/lib/pricing-table.php:156
+#: shortcodes/lib/services.php:191
+#: shortcodes/lib/subscribe-form.php:85
+#: shortcodes/lib/team.php:159
+#@ js_composer
+msgid "Appear from center"
+msgstr ""
+
+#: shortcodes/lib/clients.php:97
+#: shortcodes/lib/contact-form.php:139
+#: shortcodes/lib/message.php:8
+#: shortcodes/lib/pricing-table.php:157
+#: shortcodes/lib/services.php:192
+#: shortcodes/lib/subscribe-form.php:86
+#: shortcodes/lib/team.php:160
+#@ js_composer
+msgid "Select type of animation if you want this element to be animated when it enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: shortcodes/lib/clients.php:107
+#@ js_composer
+msgid "Provide links for client logos"
+msgstr ""
+
+#: shortcodes/lib/clients.php:109
+#@ js_composer
+msgid "Enter links for each client logo here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: shortcodes/lib/clients.php:113
+#: shortcodes/lib/team.php:136
+#@ js_composer
+msgid "Logo container size"
+msgstr ""
+
+#: shortcodes/lib/clients.php:116
+#: shortcodes/lib/team.php:139
+#@ js_composer
+msgid "Set size for logo's container"
+msgstr ""
+
+#: shortcodes/lib/comment-form.php:48
+#@ js_composer
+msgid "Comment form"
+msgstr ""
+
+#: shortcodes/lib/comment-form.php:54
+#@ js_composer
+msgid "Use comment form only in single posts"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:81
+#@ js_composer
+msgid "Contact Form"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:87
+#@ js_composer
+msgid "Contact form"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:91
+#: shortcodes/lib/contact-form.php:98
+#@ js_composer
+msgid "Input Size"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:94
+#: shortcodes/lib/contact-form.php:101
+#@ js_composer
+msgid "Set size for inputs"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:105
+#@ js_composer
+msgid "Placeholder for 'Name input'"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:107
+#: shortcodes/lib/contact-form.php:113
+#: shortcodes/lib/contact-form.php:119
+#: shortcodes/lib/contact-form.php:125
+#@ js_composer
+msgid "This string will be used as placeholder"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:111
+#@ js_composer
+msgid "Placeholder for 'E-mail input'"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:117
+#@ js_composer
+msgid "Placeholder for 'Web input'"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:123
+#@ js_composer
+msgid "Placeholder for 'Textarea'"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:129
+#@ js_composer
+msgid "Submit button value"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:131
+#@ js_composer
+msgid "Give submit button name"
+msgstr ""
+
+#: shortcodes/lib/contact-form.php:159
+#@ js_composer
+msgid "Button options"
+msgstr ""
+
+#: shortcodes/lib/grid.php:4
+#@ js_composer
+msgid "Link to post"
+msgstr ""
+
+#: shortcodes/lib/grid.php:5
+#@ js_composer
+msgid "No link"
+msgstr ""
+
+#: shortcodes/lib/grid.php:6
+#@ js_composer
+msgid "Link to bigger image"
+msgstr ""
+
+#: shortcodes/lib/grid.php:8
+#@ js_composer
+msgid "Same window"
+msgstr ""
+
+#: shortcodes/lib/grid.php:8
+#@ js_composer
+msgid "New window"
+msgstr ""
+
+#: shortcodes/lib/grid.php:10
+#@ js_composer
+msgid "Posts Grid"
+msgstr ""
+
+#: shortcodes/lib/grid.php:13
+#@ js_composer
+msgid "Posts in grid view"
+msgstr ""
+
+#: shortcodes/lib/grid.php:23
+#@ js_composer
+msgid "Grids content"
+msgstr ""
+
+#: shortcodes/lib/grid.php:29
+#@ js_composer
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: shortcodes/lib/grid.php:33
+#@ js_composer
+msgid "Columns count"
+msgstr ""
+
+#: shortcodes/lib/grid.php:38
+#@ js_composer
+msgid "Select columns count."
+msgstr ""
+
+#: shortcodes/lib/grid.php:42
+#@ js_composer
+msgid "Teaser layout"
+msgstr ""
+
+#: shortcodes/lib/grid.php:44
+#@ js_composer
+msgid "Control teasers look. Enable blocks and place them in desired order. Note: This setting can be overrriden on post to post basis."
+msgstr ""
+
+#: shortcodes/lib/grid.php:47
+#@ js_composer
+msgid "Thumbnail"
+msgstr ""
+
+#: shortcodes/lib/grid.php:49
+#@ js_composer
+msgid "Text"
+msgstr ""
+
+#: shortcodes/lib/grid.php:50
+#@ js_composer
+msgid "Teaser/Excerpt"
+msgstr ""
+
+#: shortcodes/lib/grid.php:51
+#@ js_composer
+msgid "Full content"
+msgstr ""
+
+#: shortcodes/lib/grid.php:53
+#@ js_composer
+msgid "Read more link"
+msgstr ""
+
+#: shortcodes/lib/grid.php:58
+#@ js_composer
+msgid "Link target"
+msgstr ""
+
+#: shortcodes/lib/grid.php:65
+#@ js_composer
+msgid "Show filter"
+msgstr ""
+
+#: shortcodes/lib/grid.php:67
+#@ js_composer
+msgid "Yes, please"
+msgstr ""
+
+#: shortcodes/lib/grid.php:68
+#@ js_composer
+msgid "Select to add animated category filter to your posts grid."
+msgstr ""
+
+#: shortcodes/lib/grid.php:72
+#@ js_composer
+msgid "Layout mode"
+msgstr ""
+
+#: shortcodes/lib/grid.php:74
+#@ js_composer
+msgid "Fit rows"
+msgstr ""
+
+#: shortcodes/lib/grid.php:74
+#@ js_composer
+msgid "Masonry"
+msgstr ""
+
+#: shortcodes/lib/grid.php:74
+#@ js_composer
+msgid "Grid"
+msgstr ""
+
+#: shortcodes/lib/grid.php:74
+#@ js_composer
+msgid "Horizontal view"
+msgstr ""
+
+#: shortcodes/lib/grid.php:75
+#@ js_composer
+msgid "Teaser layout template."
+msgstr ""
+
+#: shortcodes/lib/grid.php:79
+#@ js_composer
+msgid "Thumbnail size"
+msgstr ""
+
+#: shortcodes/lib/grid.php:81
+#@ js_composer
+msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: shortcodes/lib/menu.php:12
+#@ default
+msgid "Custom Menu"
+msgstr ""
+
+#: shortcodes/lib/menu.php:15
+#@ js_composer
+msgid "WordPress Widgets"
+msgstr ""
+
+#: shortcodes/lib/menu.php:18
+#@ js_composer
+msgid "Use this widget to add one of your custom menus as a widget"
+msgstr ""
+
+#: shortcodes/lib/menu.php:24
+#@ js_composer
+msgid "What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: shortcodes/lib/menu.php:28
+#@ js_composer
+msgid "Menu"
+msgstr ""
+
+#: shortcodes/lib/menu.php:31
+#@ js_composer
+msgid "Custom menus not found. Please visit <b>Appearance > Menus</b> page to create new menu.Select menu"
+msgstr ""
+
+#: shortcodes/lib/menu.php:36
+#@ js_composer
+msgid "Menu view"
+msgstr ""
+
+#: shortcodes/lib/menu.php:38
+#@ js_composer
+msgid "Horizontal menu"
+msgstr ""
+
+#: shortcodes/lib/menu.php:38
+#@ js_composer
+msgid "Vertical menu"
+msgstr ""
+
+#: shortcodes/lib/menu.php:39
+#@ js_composer
+msgid "Set menu position"
+msgstr ""
+
+#: shortcodes/lib/menu.php:43
+#@ js_composer
+msgid "Use icons in menu"
+msgstr ""
+
+#: shortcodes/lib/menu.php:45
+#@ js_composer
+msgid "Add icon ID's for each page divide values with linebreaks (Enter)"
+msgstr ""
+
+#: shortcodes/lib/message.php:12
+#@ js_composer
+msgid "Message Box"
+msgstr ""
+
+#: shortcodes/lib/message.php:17
+#@ js_composer
+msgid "Notification box"
+msgstr ""
+
+#: shortcodes/lib/message.php:21
+#@ js_composer
+msgid "Message box type"
+msgstr ""
+
+#: shortcodes/lib/message.php:23
+#@ js_composer
+msgid "Informational"
+msgstr ""
+
+#: shortcodes/lib/message.php:23
+#@ js_composer
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/lib/message.php:23
+#@ js_composer
+msgid "Success"
+msgstr ""
+
+#: shortcodes/lib/message.php:23
+#: tesla_framework/core/tt_subscription.php:75
+#@ js_composer
+#@ zero
+msgid "Error"
+msgstr ""
+
+#: shortcodes/lib/message.php:23
+#@ js_composer
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/lib/message.php:24
+#@ js_composer
+msgid "Select message type."
+msgstr ""
+
+#: shortcodes/lib/message.php:31
+#@ js_composer
+msgid "Alert style."
+msgstr ""
+
+#: shortcodes/lib/message.php:37
+#@ js_composer
+msgid "Message text"
+msgstr ""
+
+#: shortcodes/lib/message.php:39
+#@ js_composer
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+
+#: shortcodes/lib/message.php:43
+#@ js_composer
+msgid "Message title"
+msgstr ""
+
+#: shortcodes/lib/message.php:45
+#@ js_composer
+msgid "Provide a title for the message box"
+msgstr ""
+
+#: shortcodes/lib/post_block/_item.php:20
+#: shortcodes/lib/post_block/horizontal.php:58
+#: shortcodes/lib/post_block/portfolio.php:94
+#: shortcodes/lib/vc_posts_slider.php:151
+#: shortcodes/lib/vc_teaser_grid.php:182
+#: shortcodes/lib/vc_teaser_grid.php:203
+#: shortcodes/lib/vc_teaser_grid.php:204
+#: shortcodes/lib/vc_teaser_grid.php:222
+#, php-format
+#@ js_composer
+msgid "Permalink to %s"
+msgstr ""
+
+#: shortcodes/lib/post_block/default.php:10
+#: shortcodes/lib/post_block/horizontal.php:10
+#: shortcodes/lib/post_block/portfolio.php:12
+#: shortcodes/lib/vc_teaser_grid.php:321
+#@ js_composer
+#@ zero
+msgid "All"
+msgstr ""
+
+#: shortcodes/lib/post_block/default.php:40
+#: shortcodes/lib/post_block/horizontal.php:67
+#: shortcodes/lib/vc_posts_slider.php:191
+#: shortcodes/lib/vc_teaser_grid.php:333
+#@ js_composer
+msgid "Nothing found."
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:101
+#: shortcodes/lib/pricing-table.php:107
+#@ js_composer
+msgid "Pricing table"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:111
+#@ js_composer
+msgid "Pricing table title"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:113
+#@ js_composer
+msgid "Provide a title for pricing table"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:117
+#@ js_composer
+msgid "Provide the price"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:119
+#@ js_composer
+msgid "The price will appear on the top"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:123
+#: shortcodes/lib/progress.php:54
+#@ js_composer
+msgid "Options"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:125
+#@ js_composer
+msgid "Best option"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:129
+#@ js_composer
+msgid "Provide provide features"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:131
+#@ js_composer
+msgid "Provide names for each feature. Divide with linebreaks (Enter)."
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:135
+#@ js_composer
+msgid "Button value"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:137
+#@ js_composer
+msgid "Provide a string for button value"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:141
+#@ js_composer
+msgid "Button url"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:143
+#@ js_composer
+msgid "Provide URL for button"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:149
+#@ js_composer
+msgid "Select text color for all pricing table content"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:177
+#@ js_composer
+msgid "Price CSS"
+msgstr ""
+
+#: shortcodes/lib/pricing-table.php:184
+#@ js_composer
+msgid "Button CSS"
+msgstr ""
+
+#: shortcodes/lib/progress.php:4
+#@ js_composer
+msgid "Progress Bar"
+msgstr ""
+
+#: shortcodes/lib/progress.php:8
+#@ js_composer
+msgid "Animated progress bar"
+msgstr ""
+
+#: shortcodes/lib/progress.php:18
+#@ js_composer
+msgid "Graphic values"
+msgstr ""
+
+#: shortcodes/lib/progress.php:20
+#@ js_composer
+msgid "Input graph values here. Divide values with linebreaks (Enter). Example: 90|Development"
+msgstr ""
+
+#: shortcodes/lib/progress.php:25
+#@ js_composer
+msgid "Units"
+msgstr ""
+
+#: shortcodes/lib/progress.php:27
+#@ js_composer
+msgid "Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and unit will be appended to the graph title."
+msgstr ""
+
+#: shortcodes/lib/progress.php:31
+#@ js_composer
+msgid "Widget theme"
+msgstr ""
+
+#: shortcodes/lib/progress.php:33
+#@ js_composer
+msgid "Default"
+msgstr ""
+
+#: shortcodes/lib/progress.php:33
+#@ js_composer
+msgid "Premium"
+msgstr ""
+
+#: shortcodes/lib/progress.php:34
+#@ js_composer
+msgid "Use theme for progress bar"
+msgstr ""
+
+#: shortcodes/lib/progress.php:38
+#@ js_composer
+msgid "Bar color"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Grey"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Blue"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Turquoise"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Green"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Orange"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Red"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Black"
+msgstr ""
+
+#: shortcodes/lib/progress.php:40
+#@ js_composer
+msgid "Custom Color"
+msgstr ""
+
+#: shortcodes/lib/progress.php:41
+#@ js_composer
+msgid "Select bar background color."
+msgstr ""
+
+#: shortcodes/lib/progress.php:47
+#@ js_composer
+msgid "Bar custom color"
+msgstr ""
+
+#: shortcodes/lib/progress.php:49
+#@ js_composer
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: shortcodes/lib/progress.php:56
+#@ js_composer
+msgid "Add Stripes?"
+msgstr ""
+
+#: shortcodes/lib/progress.php:56
+#@ js_composer
+msgid "Add animation? Will be visible with striped bars."
+msgstr ""
+
+#: shortcodes/lib/row.php:46
+#@ js_composer
+msgid "Row"
+msgstr ""
+
+#: shortcodes/lib/row.php:52
+#@ js_composer
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: shortcodes/lib/row.php:56
+#@ wpb
+msgid "Full size"
+msgstr ""
+
+#: shortcodes/lib/row.php:58
+#@ wpb
+msgid "Make section 100% wide"
+msgstr ""
+
+#: shortcodes/lib/row.php:60
+#@ js_composer
+msgid "Don't use container"
+msgstr ""
+
+#: shortcodes/lib/row.php:64
+#@ js_composer
+msgid "Section id"
+msgstr ""
+
+#: shortcodes/lib/row.php:66
+#@ js_composer
+msgid "Add id to target menu item and your section"
+msgstr ""
+
+#: shortcodes/lib/row.php:70
+#@ js_composer
+msgid "Video background"
+msgstr ""
+
+#: shortcodes/lib/row.php:72
+#@ js_composer
+msgid "Please insert your video link (only Youtube at this moment) to enable video background"
+msgstr ""
+
+#: shortcodes/lib/row.php:76
+#@ wpb
+msgid "Font Color"
+msgstr ""
+
+#: shortcodes/lib/row.php:78
+#@ wpb
+msgid "Select font color"
+msgstr ""
+
+#: shortcodes/lib/services.php:103
+#@ js_composer
+msgid "Services"
+msgstr ""
+
+#: shortcodes/lib/services.php:110
+#@ js_composer
+msgid "Services list"
+msgstr ""
+
+#: shortcodes/lib/services.php:130
+#@ js_composer
+msgid "Service Item"
+msgstr ""
+
+#: shortcodes/lib/services.php:137
+#@ js_composer
+msgid "Add services"
+msgstr ""
+
+#: shortcodes/lib/services.php:141
+#@ js_composer
+msgid "Service title"
+msgstr ""
+
+#: shortcodes/lib/services.php:143
+#@ js_composer
+msgid "Service name"
+msgstr ""
+
+#: shortcodes/lib/services.php:147
+#@ js_composer
+msgid "Service container size"
+msgstr ""
+
+#: shortcodes/lib/services.php:150
+#@ js_composer
+msgid "Set service container size"
+msgstr ""
+
+#: shortcodes/lib/services.php:154
+#@ js_composer
+msgid "Container shape"
+msgstr ""
+
+#: shortcodes/lib/services.php:156
+#@ js_composer
+msgid "None"
+msgstr ""
+
+#: shortcodes/lib/services.php:156
+#@ js_composer
+msgid "Circle"
+msgstr ""
+
+#: shortcodes/lib/services.php:156
+#@ js_composer
+msgid "Square"
+msgstr ""
+
+#: shortcodes/lib/services.php:157
+#@ js_composer
+msgid "Set a shape for your service figure"
+msgstr ""
+
+#: shortcodes/lib/services.php:161
+#@ js_composer
+msgid "Add:"
+msgstr ""
+
+#: shortcodes/lib/services.php:163
+#@ js_composer
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/lib/services.php:163
+#: shortcodes/lib/services.php:168
+#@ js_composer
+msgid "Image"
+msgstr ""
+
+#: shortcodes/lib/services.php:164
+#@ js_composer
+msgid "Use icon or image for services"
+msgstr ""
+
+#: shortcodes/lib/services.php:171
+#@ js_composer
+msgid "Select image from media library."
+msgstr ""
+
+#: shortcodes/lib/services.php:182
+#@ js_composer
+msgid "Service link"
+msgstr ""
+
+#: shortcodes/lib/services.php:184
+#@ js_composer
+msgid "URL to service page"
+msgstr ""
+
+#: shortcodes/lib/services.php:196
+#@ js_composer
+msgid "Short description"
+msgstr ""
+
+#: shortcodes/lib/services.php:198
+#@ js_composer
+msgid "Add intro content for service"
+msgstr ""
+
+#: shortcodes/lib/services.php:218
+#@ js_composer
+msgid "Figure options"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:66
+#@ js_composer
+msgid "Subscribe form"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:72
+#@ js_composer
+msgid "Simple subscribe form"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:76
+#@ js_composer
+msgid "Subscribe form title"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:78
+#@ js_composer
+msgid "Please provide a title for the subscribe form"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:97
+#@ js_composer
+msgid "Input size"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:100
+#@ js_composer
+msgid "Set subscribe input size"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:104
+#@ js_composer
+msgid "Submit size"
+msgstr ""
+
+#: shortcodes/lib/subscribe-form.php:107
+#@ js_composer
+msgid "Set submit input size"
+msgstr ""
+
+#: shortcodes/lib/team.php:126
+#@ js_composer
+msgid "Team members"
+msgstr ""
+
+#: shortcodes/lib/team.php:132
+#@ js_composer
+msgid "Team members custom post loop"
+msgstr ""
+
+#: shortcodes/lib/team.php:143
+#@ js_composer
+msgid "Members number"
+msgstr ""
+
+#: shortcodes/lib/team.php:145
+#@ js_composer
+msgid "Provide an integer to set how many team members need to show"
+msgstr ""
+
+#: shortcodes/lib/team.php:174
+#@ js_composer
+msgid "Social links"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:101
+#@ js_composer
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:108
+#@ js_composer
+msgid "Tetsimonials slider"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:128
+#@ js_composer
+msgid "Testimonial Item"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:135
+#@ js_composer
+msgid "Add testimonials"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:141
+#@ js_composer
+msgid "Please provide name"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:145
+#: shortcodes/lib/vc_wp_meta.php:4
+#@ js_composer
+#@ default
+msgid "Meta"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:147
+#@ js_composer
+msgid "Add meta for this istem (it can be: country, job or something custom)"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:151
+#@ js_composer
+msgid "URL"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:153
+#@ js_composer
+msgid "Add link"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:157
+#@ js_composer
+msgid "Testimonial content"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:159
+#@ js_composer
+msgid "The main content for testimonial"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:163
+#@ wpb
+msgid "Avatar"
+msgstr ""
+
+#: shortcodes/lib/testimonials.php:165
+#@ wpb
+msgid "Avatar image"
+msgstr ""
+
+#: shortcodes/lib/vc_accordion_tab.php:5
+#@ js_composer
+msgid "Section"
+msgstr ""
+
+#: shortcodes/lib/vc_accordion_tab.php:23
+#: shortcodes/lib/vc_tab.php:9
+#@ js_composer
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: shortcodes/lib/vc_flickr.php:19
+#@ js_composer
+msgid "View stream on flickr"
+msgstr ""
+
+#: shortcodes/lib/vc_item.php:9
+#@ js_composer
+msgid "Item"
+msgstr ""
+
+#: shortcodes/lib/vc_tabs.php:67
+#@ js_composer
+msgid "Previous slide"
+msgstr ""
+
+#: shortcodes/lib/vc_tabs.php:67
+#@ js_composer
+msgid "Next slide"
+msgstr ""
+
+#: shortcodes/lib/vc_toggle.php:4
+#@ js_composer
+msgid "Click to toggle"
+msgstr ""
+
+#: shortcodes/lib/vc_tweetmeme.php:9
+#@ js_composer
+msgid "Tweet"
+msgstr ""
+
+#: shortcodes/lib/vc_twitter.php:19
+#@ js_composer
+msgid "Follow us on twitter"
+msgstr ""
+
+#: shortcodes/lib/vc_wp_archives.php:4
+#@ default
+msgid "Archives"
+msgstr ""
+
+#: shortcodes/lib/vc_wp_categories.php:4
+#@ default
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/lib/vc_wp_pages.php:4
+#@ default
+msgid "Pages"
+msgstr ""
+
+#: shortcodes/lib/vc_wp_posts.php:4
+#: widgets/widget-recent-posts.php:22
+#@ default
+#@ zero
+msgid "Recent Posts"
+msgstr ""
+
+#: shortcodes/lib/vc_wp_recentcomments.php:4
+#@ default
+msgid "Recent Comments"
+msgstr ""
+
+#: shortcodes/lib/vc_wp_tagcloud.php:4
+#@ default
+msgid "Tags"
+msgstr ""
+
+#: template-blog.php:26
+#@ zero
+msgid "Author: "
+msgstr ""
+
+#: tesla_framework/core/tesla_slider.php:1241
+#: tesla_framework/core/tesla_slider.php:1254
+#@ tesla
+msgctxt "portfolio category order"
+msgid "Order"
+msgstr ""
+
+#: tesla_framework/core/tesla_slider.php:1243
+#: tesla_framework/core/tesla_slider.php:1257
+#@ tesla
+msgctxt "portfolio category order"
+msgid "Set the order in which the categories should be displayed."
+msgstr ""
+
+#: tesla_framework/core/tesla_slider.php:1274
+#@ tesla
+msgctxt "portfolio category order column"
+msgid "Order"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:73
+#@ zero
+msgid "Subscribed"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:79
+#@ zero
+msgid "MailChimp Error"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:86
+#@ zero
+msgid "No data received"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:117
+#@ zero
+msgid "No API key for mailchimp"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:131
+#@ default
+msgid "Not a valid mailchimp api key."
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#@ tax-meta
+msgid "Delete this image"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:882
+#@ tax-meta
+msgid "Delete"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:357
+#@ tax-meta
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:629
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:417
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:456
+#: tesla_framework/views/admin.php:135
+#@ tax-meta
+#@ mmb
+#@ TeslaFramework
+msgid "Remove"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:595
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:429
+#@ tax-meta
+#@ mmb
+msgid "Add"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:878
+#@ tax-meta
+msgid "Uploaded files"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:889
+#@ tax-meta
+msgid "Upload new files"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:895
+#@ tax-meta
+msgid "Add more files"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:947
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:783
+#@ tax-meta
+#@ apc
+msgid "Select a color"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:145
+#: tesla_framework/extensions/autoimport/autoimporter.php:153
+#: tesla_framework/extensions/autoimport/autoimporter.php:235
+#: tesla_framework/extensions/autoimport/autoimporter.php:239
+#: tesla_framework/extensions/autoimport/autoimporter.php:248
+#@ zero
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:146
+#@ zero
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:240
+#, php-format
+#@ zero
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:256
+#, php-format
+#@ zero
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:280
+#, php-format
+#@ zero
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:340
+#, php-format
+#@ zero
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:391
+#, php-format
+#@ zero
+msgid "Failed to import category %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:431
+#, php-format
+#@ zero
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:477
+#: tesla_framework/extensions/autoimport/autoimporter.php:618
+#, php-format
+#@ zero
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:503
+#, php-format
+#@ zero
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:525
+#, php-format
+#@ zero
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:584
+#, php-format
+#@ zero
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:749
+#@ zero
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:756
+#, php-format
+#@ zero
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:819
+#@ zero
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:832
+#@ zero
+msgid "Invalid file type"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:876
+#@ zero
+msgid "Remote server did not respond"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:882
+#, php-format
+#@ zero
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:889
+#@ zero
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:894
+#@ zero
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:900
+#, php-format
+#@ zero
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/parsers.php:43
+#: tesla_framework/extensions/autoimport/parsers.php:75
+#: tesla_framework/extensions/autoimport/parsers.php:83
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/parsers.php:44
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/parsers.php:87
+#: tesla_framework/extensions/autoimport/parsers.php:92
+#: tesla_framework/extensions/autoimport/parsers.php:283
+#: tesla_framework/extensions/autoimport/parsers.php:473
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1816
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1824
+#@ default
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: tesla_framework/views/admin.php:21
+#@ TeslaFramework
+msgid "Documentation"
+msgstr ""
+
+#: tesla_framework/views/admin.php:24
+#@ TeslaFramework
+msgid "Support"
+msgstr ""
+
+#: tesla_framework/views/admin.php:27
+#@ TeslaFramework
+msgid "Latest News"
+msgstr ""
+
+#: tesla_framework/views/admin.php:32
+#@ TeslaFramework
+msgid "Framework "
+msgstr ""
+
+#: tesla_framework/views/admin.php:51
+#: tesla_framework/views/admin.php:79
+#: tesla_framework/views/admin.php:113
+#: tesla_framework/views/admin.php:155
+#: tesla_framework/views/options/button.php:5
+#: tesla_framework/views/options/image_upload.php:13
+#, php-format
+#@ zero
+msgid "%s"
+msgstr ""
+
+#: tesla_framework/views/admin.php:153
+#@ TeslaFramework
+msgid "Save Changes"
+msgstr ""
+
+#: tesla_framework/views/options/image_upload.php:15
+#@ zero
+msgid "Upload Image"
+msgstr ""
+
+#: tesla_framework/views/options/image_upload.php:17
+#@ zero
+msgid "Remove Image"
+msgstr ""
+
+#: tesla_framework/views/options/image_upload.php:19
+#@ zero
+msgid "Preview"
+msgstr ""
+
+#: tesla_framework/views/options/text.php:45
+#@ zero
+msgid "Text Logo Preview"
+msgstr ""
+
+#: widgets/widget-ads.php:10
+#@ zero
+msgid "Displays a list of ads"
+msgstr ""
+
+#: widgets/widget-ads.php:83
+#@ zero
+msgid "Image:"
+msgstr ""
+
+#: widgets/widget-ads.php:87
+#@ zero
+msgid "URL:"
+msgstr ""
+
+#: widgets/widget-flickr.php:10
+#@ zero
+msgid "Displays a list of latest photos"
+msgstr ""
+
+#: widgets/widget-flickr.php:48
+#: widgets/widget-recent-posts.php:32
+#@ zero
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-flickr.php:49
+#@ zero
+msgid "Flickr id:"
+msgstr ""
+
+#: widgets/widget-flickr.php:51
+#@ zero
+msgid "Number of photos to show:"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:13
+#@ zero
+msgid "Custom widget recent posts."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:38
+#@ zero
+msgid "Number of posts to show: "
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:16
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+#@ woocommerce
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+#@ woocommerce
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+#@ woocommerce
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+#@ woocommerce
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+#@ woocommerce
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72
+#: woocommerce/cart/cart-shipping.php:78
+#@ woocommerce
+msgid "There doesn&lsquo;t seem to be any available shipping methods. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:93
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+#: woocommerce/checkout/review-order.php:25
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#: woocommerce/checkout/review-order.php:79
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/emails/customer-completed-order.php:23
+#: woocommerce/emails/customer-invoice.php:27
+#: woocommerce/emails/customer-note.php:27
+#: woocommerce/emails/customer-processing-order.php:23
+#: woocommerce/order/order-details.php:20
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#: woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#: woocommerce/emails/admin-new-order.php:23
+#: woocommerce/emails/customer-completed-order.php:24
+#: woocommerce/emails/customer-invoice.php:28
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-processing-order.php:24
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+#: woocommerce/checkout/review-order.php:19
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+#: woocommerce/checkout/form-coupon.php:26
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+#: woocommerce/checkout/form-coupon.php:30
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+#@ woocommerce
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#@ woocommerce
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:51
+#@ woocommerce
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:64
+#@ woocommerce
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65
+#@ woocommerce
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+#@ woocommerce
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+#@ woocommerce
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15
+#@ woocommerce
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+#@ woocommerce
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:38
+#@ woocommerce
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+#@ woocommerce
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+#@ woocommerce
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+#@ woocommerce
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+#@ woocommerce
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:15
+#@ woocommerce
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#@ woocommerce
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+#@ woocommerce
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+#@ woocommerce
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:54
+#@ woocommerce
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:89
+#@ woocommerce
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+#@ woocommerce
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:17
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:150
+#@ woocommerce
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:152
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+#@ woocommerce
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+#@ woocommerce
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:170
+#@ woocommerce
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:179
+#, php-format
+#@ woocommerce
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:71
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:67
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#: woocommerce/emails/customer-completed-order.php:18
+#: woocommerce/emails/customer-invoice.php:22
+#: woocommerce/emails/customer-note.php:22
+#: woocommerce/emails/customer-processing-order.php:18
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#: woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+#@ woocommerce
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#, php-format
+#@ woocommerce
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/emails/customer-completed-order.php:51
+#: woocommerce/emails/customer-note.php:55
+#: woocommerce/emails/customer-processing-order.php:51
+#: woocommerce/emails/plain/admin-new-order.php:39
+#: woocommerce/order/order-details.php:97
+#@ woocommerce
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:42
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:101
+#@ woocommerce
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#: woocommerce/emails/customer-completed-order.php:57
+#: woocommerce/emails/customer-note.php:61
+#: woocommerce/emails/customer-processing-order.php:57
+#: woocommerce/emails/plain/admin-new-order.php:45
+#: woocommerce/emails/plain/customer-completed-order.php:44
+#: woocommerce/emails/plain/customer-note.php:52
+#: woocommerce/emails/plain/customer-processing-order.php:44
+#@ woocommerce
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:14
+#: woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+#@ woocommerce
+msgid "Hi there. Your recent order on %s has been completed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+#@ woocommerce
+msgid "An order has been created for you on %s. To pay for this order please use the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#@ woocommerce
+msgid "pay"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:14
+#: woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+#@ woocommerce
+msgid "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:18
+#, php-format
+#@ woocommerce
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:22
+#: woocommerce/emails/plain/customer-new-account.php:18
+#, php-format
+#@ woocommerce
+msgid "You can access your account area to view your orders and change your password here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:14
+#: woocommerce/emails/plain/customer-note.php:13
+#@ woocommerce
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:18
+#: woocommerce/emails/plain/customer-note.php:21
+#@ woocommerce
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:14
+#: woocommerce/emails/plain/customer-processing-order.php:13
+#@ woocommerce
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:14
+#: woocommerce/emails/plain/customer-reset-password.php:13
+#@ woocommerce
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:15
+#: woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+#@ woocommerce
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:16
+#: woocommerce/emails/plain/customer-reset-password.php:16
+#@ woocommerce
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:17
+#: woocommerce/emails/plain/customer-reset-password.php:17
+#@ woocommerce
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+#@ woocommerce
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#: woocommerce/emails/plain/email-addresses.php:12
+#@ woocommerce
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#: woocommerce/emails/plain/email-addresses.php:17
+#@ woocommerce
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:25
+#@ woocommerce
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:46
+#: woocommerce/emails/plain/email-order-items.php:46
+#, php-format
+#@ woocommerce
+msgid "Download %d"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:48
+#: woocommerce/emails/plain/email-order-items.php:48
+#@ woocommerce
+msgid "Download"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:19
+#: woocommerce/emails/plain/customer-completed-order.php:19
+#: woocommerce/emails/plain/customer-invoice.php:20
+#: woocommerce/emails/plain/customer-note.php:27
+#: woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+#@ woocommerce
+msgid "Order number: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#, php-format
+#@ woocommerce
+msgid "Order link: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:21
+#: woocommerce/emails/plain/customer-completed-order.php:20
+#: woocommerce/emails/plain/customer-invoice.php:21
+#: woocommerce/emails/plain/customer-note.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+#@ woocommerce
+msgid "Order date: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:21
+#@ woocommerce
+msgid "jS F Y"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-completed-order.php:38
+#: woocommerce/emails/plain/customer-note.php:46
+#: woocommerce/emails/plain/customer-processing-order.php:38
+#@ woocommerce
+msgid "Your details"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+#@ woocommerce
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:32
+#, php-format
+#@ woocommerce
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+#@ woocommerce
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:63
+#@ woocommerce
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:91
+#: woocommerce/global/breadcrumb.php:189
+#@ woocommerce
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:147
+#@ woocommerce
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:193
+#@ woocommerce
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:198
+#@ woocommerce
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:203
+#@ woocommerce
+msgid "Page"
+msgstr ""
+
+#: woocommerce/global/form-login.php:22
+#: woocommerce/myaccount/form-lost-password.php:23
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:88
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:48
+#@ woocommerce
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42
+#: woocommerce/myaccount/form-login.php:52
+#@ woocommerce
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+#@ woocommerce
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21
+#@ woocommerce
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+#@ woocommerce
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+#@ woocommerce
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+#@ woocommerce
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+#@ woocommerce
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+#@ woocommerce
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+#@ woocommerce
+msgid "Sorry, it seems that there are no payment methods which support adding a new payment method. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+#@ woocommerce
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:30
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:34
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:45
+#@ woocommerce
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:20
+#@ woocommerce
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:24
+#@ woocommerce
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+#: woocommerce/myaccount/form-login.php:81
+#@ woocommerce
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+#@ woocommerce
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+#@ woocommerce
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+#@ woocommerce
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:118
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:133
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:40
+#@ woocommerce
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+#@ woocommerce
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:65
+#: woocommerce/myaccount/form-login.php:102
+#@ woocommerce
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+#@ woocommerce
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+#@ woocommerce
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:45
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+#@ woocommerce
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:24
+#, php-format
+#@ woocommerce
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ woocommerce
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ woocommerce
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:33
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:78
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:84
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:19
+#, php-format
+#@ woocommerce
+msgid "Order <mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:23
+#: woocommerce/order/tracking.php:31
+#@ woocommerce
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:29
+#: woocommerce/order/tracking.php:37
+#@ woocommerce
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#@ woocommerce
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#@ woocommerce
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+#@ woocommerce
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:66
+#, php-format
+#@ woocommerce
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+#@ woocommerce
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+#: woocommerce/single-product/meta.php:23
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+#@ woocommerce
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#@ woocommerce
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid " ago"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+#@ woocommerce
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+#@ woocommerce
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:28
+#@ woocommerce
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+#@ woocommerce
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+#@ woocommerce
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+#@ woocommerce
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+#@ woocommerce
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:36
+#@ woocommerce
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+#@ woocommerce
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+#@ woocommerce
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+#@ woocommerce
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:23
+#@ woocommerce
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+#@ woocommerce
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+#@ woocommerce
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#@ woocommerce
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#@ woocommerce
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+

@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="en" class=" js csstransforms">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hotelia | Documentation</title>
+     
+    <!-- Style CSS -->
+    <link href="css/bootstrap.css" media="screen" rel="stylesheet">
+
+    <!-- SyntaxHighlighter -->
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?skin=desert&lang=css"></script>
+    <!-- Documentation StyleSheet -->
+    <link href="css/docs.css" media="screen" rel="stylesheet">
+</head>
+<body cz-shortcut-listen="true">
+<div id="full-page-container" class="body-wrap" style="min-height: 921px;">
+
+    <header class="header-demo">
+        <div class="inner gradient">
+            <!-- container -->
+            <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="logo"><img src="img/logo.png" alt=""></div>
+                    </div>
+
+                    <div class="col-sm-9">
+                        <h1>Hotelia WP Theme</h1>
+                        <span>Created: 26 September 2014</span>
+                        <span>by: <a href="http://teslathemes.com/">TeslaThemes</a></span>
+                        <span>email: <a href="mailto:support@teslathemes.com">support@teslathemes.com</a></a></span>
+                    </div>
+                </div>
+                <!--/ row-->
+            </div>
+            <!--/ container -->
+        </div>
+    </header>
+
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="sidebar-demo hidden-print affix-top" role="complementary" data-spy="affix" data-offset-top="200">
+                    <ul class="nav">
+                        <li class="active"><a href="#about" hidefocus="true" style="outline: none;">Introduction</a></li>
+                        <li><a href="#browser" hidefocus="true" style="outline: none;">Browser support</a></li>
+                        <li><a href="#getting-started" hidefocus="true" style="outline: none;">Installing WP</a></li>
+                        <li><a href="#template" hidefocus="true" style="outline: none;">Installing Theme</a></li>
+                        <li><a href="#blog-front-pages" hidefocus="true" style="outline: none;">Blog & Front Pages</a></li>
+                        <li>
+                            <a href="#fw" hidefocus="true" style="outline: none;">Tesla Framework</a>
+                            <ul class="nav">
+                                 <li><a href="#section-one" hidefocus="true" style="outline: none;">General Options</a></li>
+                                <li><a href="#section-two" hidefocus="true" style="outline: none;">Typography</a></li>
+                                <li><a href="#section-three" hidefocus="true" style="outline: none;">Customize defaults</a></li>
+                                <li><a href="#section-four" hidefocus="true" style="outline: none;">Header</a></li>
+                                <li><a href="#section-five" hidefocus="true" style="outline: none;">Footer</a></li>
+                                <li><a href="#section-six" hidefocus="true" style="outline: none;">404 Error</a></li>
+                                <li><a href="#section-seven" hidefocus="true" style="outline: none;">Developer</a></li>
+                                <li><a href="#section-eight" hidefocus="true" style="outline: none;">Subscribers</a></li>
+                                <li><a href="#fw-export-import" hidefocus="true" style="outline: none;">Export/Import Options</a></li>
+                                <li><a href="#fw-import-demo" hidefocus="true" style="outline: none;">Import Demo Content</a></li>
+                                <li><a href="#fw-updates" hidefocus="true" style="outline: none;">Theme Updates</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#custom-posts" hidefocus="true" style="outline: none;">Custom Posts & Shortcodes</a>
+                           
+                        </li>
+                        <li><a href="#templates" hidefocus="true" style="outline: none;">Page Templates</a></li>
+                        <li><a href="#widgets" hidefocus="true" style="outline: none;">Widgets</a></li>
+                        <li><a href="#woocommerce" hidefocus="true" style="outline: none;">WooCommerce</a></li>               
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-9">
+                <!-- content -->
+                <div class="content-demo" role="main">
+
+                    <!-- What is this -->
+                    <div class="section-demo">
+                        <h2 id="about">Introduction</h2>
+
+                        <div class="description">
+                            <p>Thank you for purchasing our product! We are very glad that you have decided on our Hotelia WordPress Theme.</p>
+                            <p>This documentation will help you to set up and use the Hotelia WordPress Theme. The theme is very easy to use and we are here to guide and help you, so please read and follow the documentation, if there are some other issues you want to discuss then do not hesitate to contact us on <a href="mailto:support@teslathemes.com">support@teslathemes.com</a>. This documentation is more of a reference work if you do not know what to do, or if you are not familiar to WordPress.</p>
+                            <p>Please read the following very carefully as it will help you set the theme up, we have gone through the setup process multiple times and provided the best possible instructions.</p>
+                            <p>We strongly recommend you to use a fresh install of WordPress and integrate your content into the pages according to the documentation. Of course, you can try to implement the theme into your current WordPress, but we will not provide in-depth support for it. The theme has specific settings that may conflict with your current setup of categories, plugins, javascript use, and more.</p>
+                            <p>We wish you good luck in your work with Hotelia WordPress Theme, and of course we would love to see your website and what you come up with by using this theme.</p>
+                            <p>The theme is very easy to use and we are here to guide and help you, so please read and follow the instructions and if you have further questions write us a email <a href="mailto:support@teslathemes.com">support@teslathemes.com</a>. This documentation is more of a reference work if you do not know what to do and need a better understanding on how the template is built write us an email.</p>
+                            <div class="alert alert-info">Note: You can click on small images to zoom in and then move the mouse to the position you need.</div>
+                        </div>
+
+                    </div>
+                    <!--/ What is this -->
+
+                    <!-- Browser support -->
+                    <div class="section-demo">
+                        <h2 id="browser">Browser and Devices support</h2>
+
+                        <div class="description">
+                            <p>Since <a href="http://teslathemes.com/wp-themes/Hotelia/" target="_blank" hidefocus="true" style="outline: none;">Hotelia</a> is built on <a href="http://getbootstrap.com/" target="_blank" hidefocus="true" style="outline: none;">Bootstrap 3</a> framework, it supports the same <a href="http://getbootstrap.com/getting-started/#browsers" target="_blank" hidefocus="true" style="outline: none;">browsers</a> as Bootstrap.</p>
+                            <p>This template is responsive and should look fine on all standard mobile devices.</p>
+                            <p><img class="custom" src="img/cross_browser.png" alt="browsers"></p>
+                        </div>
+
+                    </div>
+                    <!--/ Browser support -->
+
+                    <!-- Getting Started -->
+                    <div class="section-demo">
+                        <h2 id="getting-started">Installing WordPress</h2>
+
+                        <div class="description">
+                            <p>To start working with <a href="http://teslathemes.com/wp-themes/Hotelia/" target="_blank" hidefocus="true" style="outline: none;">Hotelia</a> you need to have WordPress installed on your server (local,dev or production)</p>
+                            <h4>Step 1: Download and Extract</h4>
+                            <p>Download and unzip the WordPress package from <a href="http://wordpress.org/download" target="_blank">Download Wordpress</a>.</p>
+                            <h4>Step 2: Upload</h4>
+                            <p>Copy the extracted contents of wordpress zip to the corresponding path of the server. Make sure WP has permissions to write the folder it is located in.</p>
+                            <p>Now when accessing the corresponding URL you should see the following message:</p>
+                            <p><img src="img/wp_first.jpeg" alt="Wp first" /></p>
+                            <h4>Step 3: Edit the Configuration File</h4>
+                            <p><em>Auto Mode:</em> After clicking on "Create a configuration file" then "Let's Go" you will get the configuration page:</p>
+                            <p><img src="img/wp_db_config.jpeg" alt="Establishing a connection" /></p>
+                            <p>If the information is correct and everything works fine you will receive:</p>
+                            <p><img src="img/wp_success.jpeg" alt="Successful" /></p>
+                            <p>If it's successful then skip the "Manual Mode" if not, follow the instructions bellow.</p>             
+                            <p><em>Manual Mode:</em> You can either rename the file <code>wp-config-sample.php</code> to <code>wp-config.php</code> on your local machine or on you server (you'll still need to tell WordPress your database information).</p>
+                            <p>Open <code>wp-config.php</code> with a txt editor and enter your database information under the section labeled:</p>
+                            
+                            <pre class="prettyprint lang-php linenums:17">// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'wordpress');
+
+/** MySQL database username */
+define('DB_USER', 'root');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'root');
+
+/** MySQL hostname */
+define('DB_HOST', 'localhost');
+
+/** Database Charset to use in creating database tables. */
+define('DB_CHARSET', 'utf8');
+
+/** The Database Collate type. Don't change this if in doubt. */
+define('DB_COLLATE', '');</pre>
+                            <p>After the information is edited upload the file to the server.</p>
+                            <h2>Step 4: Site name and login data</h2>
+                            <p>If it's all sparky then you click Run the Install and fill all the lines shown bellow:</p>
+                            <p><img src="img/wp_login_data.jpeg" alt="Login Information" /></p>
+                            <p>This being the last step you will see a success message.</p>
+                            <p><img src="img/wp_success_final.jpeg" alt="Success" /></p>
+                            <p>Click Log in and now you can proceed to you site. Now you can go to installing your <em>Hotelia</em> WordPress Theme.</p>
+                        </div>
+                    </div>
+                    <!-- Getting Started -->
+
+                    <!-- Installing Theme -->
+                    <div class="section-demo">
+                        <h2 id="template">Installing Theme</h2>
+                        <div class="description">
+                            <p>To install the <em>Hotelia</em> WordPress Theme you will need WordPress v3.6 or newer.</p>
+                            <h4>Option A</h4>
+                            <p>Follow the steps and upload the Theme's installation zip file through the WordPress admin backend:</p>
+                            <ol>
+                                <li>Download the theme archive, Hotelia.zip</li>
+                                <li>Unzip the theme archive</li>
+                                <li>Find the installation file, <em>Hotelia.installation.zip</em></li>
+                                <li>Go to your WP admin – Appearance – Themes – Add New – Upload Theme – Choose file</li>
+                                <li>Upload the <em>Hotelia.installation.zip</em> file.</li>
+                            </ol>
+                            <p><img src="img/theme_install_steps.jpeg" alt="upload" /></p>
+                            <p>Then, when prompted activate the theme.</p>
+                            <p><em>Note:</em> If you can't get passed the file upload limit and/or if you get an error message mentioning exhausted memory size or something in those lines, you could try to increase that limit by adding to the <em>"wp-config.php"</em> the following line of code:</p>
+                            <pre class="prettyprint">define('WP_MEMORY_LIMIT', '64M');</pre>
+                            <h4>Option B</h4>
+                            <p>Uploading directly to the Server:
+                            <ol>
+                                <li>Download the theme archive, Hotelia.zip</li>
+                                <li>Unzip the theme archive</li>
+                                <li>Find the installation folder, <em>Hotelia</em></li>
+                                <li>Connect to your server via FTP or any other way that will allow you to explore and upload files directly.</li>
+                                <li>Navigate to your <code>WP Installation Folder/wp-content/themes/</code></li>
+                                <li>Upload the <em>Hotelia</em> folder here.</li>
+                            </ol>
+                            <p>If everything went well in <em>Option A</em> or <em>B</em>, the theme should appear under Appearance → Themes like shown below:</p>
+                            <p><img src="img/appearance_themes.jpeg" alt="cover" /></p>
+                            <p>Then, when prompted activate the theme. Or go to Appearance->Themes and press the Activate button next to the theme.</p>
+                            <p>Now you are ready to customize your theme.</p>
+                        </div>
+                    </div>
+                    <!-- Installing Theme -->
+
+                    <!-- General Options -->
+                    <div class="section-demo">
+                        <h2 id="blog-front-pages">Blog & Front Pages</h2>
+
+                        <div class="description">
+                            <p><em>Create a page that will serve as homepage</em> - In wordpress admin panel under <em>Pages → Add New</em>, name it for example "Front Page Default". Also, select "Home" as the template used by the page.</p>
+                            <p><em>Create a page that will serve as the archive page of blog posts</em> - In wordpress admin panel under <em>Pages → Add New</em>, name it for example "Blog". Make sure that the permalink slug is "blog" only. Also, select "Default Template" as the template used by the page.</p>
+                            <p><em>Set the front page to display as a static page:</em> - Go to Settings → Reading → A static page (select below) → Front page: → Choose your page from the drop-down menu.</p>
+                            <p>Choose your posts page from the drop-down menu. It should be the "Blog" page we have just created.</p>
+                            <p>Your page should look something like: </p>
+                            <p><img src="img/home_blog_page.jpeg" alt="home page" /></p>
+                        </div>
+                    </div>
+                    <!--/ General Options -->
+
+                    <!-- Tesla Framework -->
+                    <div class="section-demo">
+                        <h2 id="fw">Tesla Framework</h2>
+                        <div class="description">
+                            <p><img class="custom" src="img/fw-tour.png" alt="FW tour"></p>
+                            <p>All our themes are powered by <em>Tesla Framework</em> ( <a href="http://teslathemes.com/framework-tour/">Tesla Framework Tour</a> ), a powerful administration tool that comprises all our great features and allows you to easily customize the look and functionality of your theme, without advanced knowledge of programming. It gives you the possibility to customize and manage your theme settings from a dedicated area within your Wordpress Admin. <em>Tesla Framework</em> works smoothly, is intuitive and easy to use, once you install one of our themes you will be able to personalize its logo, site background and color, SEO options, social media networks and more; all from one place.</p>
+                            <p>Our Framework is in continuous development and improvement process, we are working hard to provide you an easy administration tool, and we're guided by the latest UX trends and new technologies.</p>
+                            <p>To personalize your theme you need to follow the instructions below.</p>
+                            <div class="alert alert-info">Note: Options will vary from theme to theme depending on their features.</div>
+                        </div>
+                    </div>
+                        <!-- General Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-one">General Settings</h3>
+                            <p>TeslaThemes framework is a powerfull tool that helps to customize your project. Bellow is described all options step by step.</p>
+                            <p><img src="img/fw-general.jpeg" alt="General Options"></p>
+                            <p>TeslaThemes framework added in the new version new features and filtered options by priority.</p>
+                            <h4>TeslaThemes Framework Sections</h4>
+                            <ol>
+                                <li>General Options</li>
+                                <li>Typography</li>
+                                <li>Customize defaults</li>
+                                <li>Header</li>
+                                <li>Footer</li>
+                                <li>404 Error</li>
+                                <li>Developer</li>
+                                <li>Subscribers</li>
+                            </ol>
+                            <br>
+                            <h5>General Options sections </h5>
+                            <p>This option page has three sections with many options</p>
+                            <ul>
+                                <li>
+                                    <h5>Section A: Layout</h5>
+                                    <p>This section has option to switch between <b>Wide</b>  and <b>Boxed</b> version of your project. </p>
+                                    <div class="alert alert-info">Note: This option is a Global one and will affect entire project.</div>
+                                </li>
+                                <li>
+                                    <h5>Section B: Favicon</h5>
+                                    <p>Here is the option to set your favicon. You can use any png, and our functions will set it for any device.</p>
+                                </li>
+                                <li>
+                                    <h5>Section C: Background Settings</h5>
+                                    <p>The options is for customize project background. It possible to set custom image background or solid color.  </p>
+                                    <div class="alert alert-info">Note: This option is a Global one and will affect entire project. </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                        <!--/ General Tesla Framework -->
+
+                        <!-- Site Colors Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-two">Typography</h3>
+                            <div class="description">
+                                <p>Use these settings to set custom typography for each typo element.</p>
+                                <p><img src="img/fw-site-colors.jpeg" alt="Site colors"></p>
+                                <p>For better results we recommend to read this article <a href="http://en.wikipedia.org/wiki/Web_typography" title="">Web Typography</a> </p>
+                                <ul>
+                                    <li>
+                                        <h5>Section A: Global Typography</h5>
+                                        <p>This section has three options: <b>Text color</b>, <b>Font</b>, <b>Font size</b>. Those settings will be setted for the body tag.</p>
+                                    </li>
+                                    <li>
+                                        <h5>Section B: Links Style</h5>
+                                        <p>Here is the options to change <b>Font</b>, <b>Text Color</b>, <b>Font size</b> for the tag "< a >" (anchor tag); </p>
+                                    </li>
+                                    <li>
+                                        <h5>Section C: Headings style</h5>
+                                        <p>Styling the project heading (h1-h6). It possible to change <b>Text color</b>, <b>Font</b> and <b>Font Size</b> for each heading</p>
+                                    </li>
+                                </ul>
+                                <div class="alert alert-info">Note: This option is a Global one and will affect entire project.</div>
+                            </div>
+                        </div>
+                    </div>
+                        <!--/ Site Colors Tesla Framework -->
+
+                        <!-- SEO & Socials Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-three">Customize Defaults</h3>
+                            <div class="description">
+                                <p>Our theme has a palette of colors and this section is best to change global colors.</p>
+                                <p><img src="img/fw-seo-social.jpeg" alt="SEO Social"></p>
+                                <h4>The philosophy</h4>
+                                <p>Teslathemes changed theme building philosophy. Now we develop a frontend framework, to help developers to reduce time and optimize the theme, also help users to customize their project by himselfs without extra help. </p>
+                                <p>Theme "Hotelia", have six base colors (Blue, Red, Green, Yellow, Brown, Violet). Those colors was used for all our UI elements, but only one color dominate - "Blue"</p>
+                                <!-- <h4>Our defaults</h4>
+                                <ol>
+                                    <li>Blue - <span style="color: #99D9F2;">#99D9F2</span></li>
+                                    <li>Red - <span style="color: #F487AF;">#F487AF</span></li>
+                                    <li>Green - <span style="color: #91954C;">#91954C</span></li>
+                                    <li>Yellow - <span style="color: #FCE374;">#FCE374</span></li>
+                                    <li>Brown - <span style="color: #A26E6C;">#A26E6C</span></li>
+                                    <li>Violet - <span style="color: #8E56BC;">#8E56BC</span></li>
+                                </ol> -->
+                            </div>
+                        </div>
+                    </div>
+                        <!--/ SEO & Socials Tesla Framework -->
+
+                        <!-- Additional Options Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-four">Header</h3>
+                            <div class="description">
+                                <p>In our framework we added a section to customize your project header.</p>
+                                <p><img src="img/fw-additional-options.jpeg" alt="Additional Options"></p>
+                                <h4>Main changes possibile for the headers:</h4>
+                                <ul>
+                                    <li>
+                                        <h5>Header settings</h5>
+                                        <p>Can be set <b>Custom background</b>, <b>Solid color background</b>, <b>Padding</b>, <b>Margin</b>. Also, you can drop your custom content or any shortcode.</p>
+                                    </li>
+                                    <li>
+                                        <h5>Identity settings</h5>
+                                        <p>Set your brand logo for your project. Also here you can find many option to align your logo. Also you can use text logo with any Google font.</p>
+                                    </li>
+                                    <li>
+                                        <h5>Menu settings</h5>
+                                        <p>Cusomize your navigation, change links colors, hover and position</p>
+                                    </li> 
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                        <!--/ Additional Options Tesla Framework -->
+
+                        <!-- Contact Info Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-five">Footer</h3>
+                            <div class="description">
+                                <p>Set your footer as you want. Add or remove widgets, cahnge color and even more.</p>
+                                <p><img src="img/fw-contact.jpeg" alt="Contact Info"></p>
+                                <h5>Settings available:</h5>
+                                <ul>
+                                    <li>
+                                       <h5>Section A: Footer Style</h5> 
+                                       <p>Change the color of footer widget bar or hide it</p>
+                                    </li>
+                                    <li>
+                                       <h5>Section B: Footer Logo</h5> 
+                                       <p>Add footer logo and a little bit info related to your business</p>
+                                    </li>
+                                    <li>
+                                        <h5>Section C: Social Footer</h5>
+                                        <p>Add social link into the footer. If isn't set any social link, it will not be showed.</p>
+                                    </li>
+                                    <li>
+                                       <h5>Section D: Instagram info</h5> 
+                                       <p>Instagram account settings</p>
+                                    </li>
+                                </ul>       
+                            </div>
+                        </div>
+                    </div>
+                        <!--/ Contact Info Tesla Framework -->
+
+                    <!-- Subscription Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-six">404 Error</h3>
+                            <div class="description">
+                                <p>Paste your content in coherent input and it will be showed on 404 page </p>
+                                <p><img src="img/fw-subscription.jpeg" alt="Subscription"></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--/ Subscription Tesla Framework -->
+
+                    <!-- Typography Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-seven">Developer</h3>
+                            <div class="description">
+                                <p>Section for hardcoded customization. Here you can drop your cusom CSS or JS.</p>
+                                <p><img src="img/fw-typography.jpeg" alt="Typography"></p>
+                                <div class="alert alert-info">Note: This option is a Global one and will affect entire project. </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/ Typography Tesla Framework -->
+
+
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="section-eight">Subscribers</h3>
+                            <div class="description">
+                                <p>If you use the subscribe for on your project, all incoming data will be showed in thie section.</p>
+                                <p><img src="img/fw-subscription2.jpeg" alt="Subscription"></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Export/Import Options Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="fw-export-import">Export/Import Options</h3>
+                            <div class="description">
+                                <p>To clear, export, import options for the settings explained above, go to WP Admin -> Tesla Theme -> Export/Import Options.</p>
+                                <p><img src="img/fw-export-import.jpeg" alt="Export/Import Options"></p>
+                                <p><em>Clear Options</em>: Restores all the inputs to default values. You will lose all customization made in the theme options tabs.</p>
+                                <p><em>Import Demo Options</em>: Imports the options predefined by our developers as seen on <a href="http://teslathemes.com/demo/wp/Hotelia/" target="_blank">demo page</a>.</p>
+                                <div class="alert alert-info">Note: Importing demo options will not make your website look entirely as on our demo. You still need to import <a href="#fw-import-demo">demo content</a> and use specific plugins and widgets if theme requires so.</div>
+                                <p><em>Export Options</em>: Saves the current options to a file. This file can be later used to import options as described below. Useful when migrating to a new server.</p>
+                                <p><em>Import Options</em>: Loads options from an earlier exported file.</p>
+                                <div class="alert alert-warning">Warning ! Importing or clearing options will erase your theme current settings from Tesla Theme page . Make sure you make a backup first by "Exporting Options".</div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!--/ Export/Import Options Tesla Framework -->
+
+                        <!-- Export/Import Options Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="fw-import-demo">Import Demo Content</h3>
+                            <div class="description">
+                                <p>To import the content that is used on our demo page, go to WP Admin -> Tesla Theme -> Import Demo.</p>
+                                <p><img src="img/fw-import-demo.png" alt="Import Demo"></p>
+                                <div class="alert alert-warning">Warning ! Importing Demo Content will add posts and media files to your wordpress. It is not recommended to do it if you already have your own content. It would be better if you back up your data before importing the demo content.</div>
+                                <p>Some error may happen due to permissions or repeating media. If the final message is green and successful just ignore them. If it fails or takes longer than 15 min to load please contact our support team and send the WP + FTP credentials.</p>
+                            </div>
+                        </div>
+                    </div>
+                        <!--/ Export/Import Options Tesla Framework -->
+                        
+                        <!-- Theme Updates Tesla Framework -->
+                    <div class="section-demo">
+                        <div class="description">
+                            <h3 id="fw-updates">Theme Updates</h3>
+                            <div class="description">
+                                <div class="alert alert-warning">Warning ! You will lose all the customizations made in the parent theme if you make this update. Make sure that you work with <a href="https://codex.wordpress.org/Child_Themes">Child Theme</a> to keep the customizations during updates.</div>
+                                <p>Wordpress will check for updates each hour and our themes will be displayed on the WP's updates page automatically.</p>
+                                <p>To check for updates manually go to WP Admin -> Tesla Theme and at the top click on the <em>Check Updates</em> button. If there are updates, the newest version will be displayed and the "Go to updates page" button will appear, clicking on it will lead you to the Wordpress' updates page.</p>
+                                <p><img src="img/fw-updates.jpeg" alt="Theme Updates"></p>
+                                <div class="alert alert-info">Note: Click on <em>View Changelog</em> before updating to see what has been added or changed.</div>
+                                <p>Select the checkbox next to the Tesla Theme and then click on <em>Update Themes</em></p>
+                                <p><img src="img/fw-updates2.jpeg" alt="Theme Updates 2"></p>
+                                <p>If you get any errors during this process please be sure that WP has permission to write in /wp-content folder.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/ Theme Updates Tesla Framework -->
+
+                    <!-- Custom Posts -->
+                    <div class="section-demo">
+                        <h2 id="custom-posts">Custom Posts & Shortcodes</h2>
+                        <p><img class="custom" src="img/custom-posts.png" alt="Custom Posts"></p>
+                        <div class="description">
+                            <p>To ease the process of creating a website our TeslaFramework combines Theme Options, Custom Posts, Shortcodes and Templates.</p>
+                            <p>Most of the custom posts are linked with a shortcode that you can use on any page. Some will need a specific page template to be called on. Others have their own placement and will be used as content for static locations.</p>
+                            <p>The best way to understand and start working with our custom posts and shortcodes is to <a href="#fw-import-demo">Import Demo Content</a> and modify it.</p>
+                            <p>Next we will explain each custom post in part. It's parameters and limitations of use. But don't be afraid to <em>experiment</em>.</p>
+                            <div class="alert alert-info">Note: In the following screens, the colors from WP Admin match the generated content on the frontend.</div>
+                        </div>
+                    </div>
+                    <!--/ Custom Posts -->
+                    <div class="section-demo">
+                        <h2>Theme Philosophy</h2>
+                        <p>"Hotelia" theme has built in three powerfull shortcode "Visual Composer", "Revolution Slider" and "WooCommerce". Thise plugins give you opportunity to customize the theme without any coding knowledge.</p>
+                        <hr>
+                        <p>The theme has two custom posts, tons of shortcodes and two type of custom templates.</p>
+                        <h5>Custom posts:</h5>
+                            <ul>
+                                <li>Room (Product woocomerce's default post)</li>
+                                <li>Guest book</li>
+                            </ul>
+                        <h5>Shortcodes</h5>
+                        <p>All shortcodes via Visual Composer are self explained and if you need our help you can use our support forum.</p>
+                        <h5>Custom Templates</h5>
+                            <ul>
+                                <li>Blog col two</li>
+                                <li>Blog col three</li>
+                            </ul>
+                        <hr>
+                        <h3>Page Structure</h3>
+                        <p>All pages from "Hotelia" theme was built using Visual Composer plugin, taht mean based on shortcodes. To understand better, we recommend you to import demo content and switch Visual Composer to "Classic mode" and you will descover regular shortcodes.</p>
+                        <p>To customize the theme we prepare couple CSS helper classes:</p>
+                        <style type="text/css" media="screen">
+                            td, th {padding: 10px; text-align: center; border: 1px solid #dedede;}
+                        </style>
+                        <table style="background: #fff;">
+                            <caption>table title and/or explanatory text</caption>
+                            <thead>
+                                <tr>
+                                    <th>Class Name</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>text-left</td>
+                                    <td>Move text to left</td>
+                                </tr>
+                                <tr>
+                                    <td>text-right</td>
+                                    <td>Move text to right</td>
+                                </tr>
+                                <tr>
+                                    <td>text-center</td>
+                                    <td>Center align text</td>
+                                </tr>
+                                <tr>
+                                    <td>uppercase</td>
+                                    <td>Text Transform: all caps lock</td>
+                                </tr>
+                                <tr>
+                                    <td>text-white</td>
+                                    <td>text color white</td>
+                                </tr>
+                                <tr>
+                                    <td>text-blue</td>
+                                    <td>text color blue</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark-blue</td>
+                                    <td>text color dark blue</td>
+                                </tr>
+                                <tr>
+                                    <td>text-red</td>
+                                    <td>text color red</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark-red</td>
+                                    <td>text color dark red</td>
+                                </tr>
+                                <tr>
+                                    <td>text-green</td>
+                                    <td>text color green</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark-green</td>
+                                    <td>text color dark green</td>
+                                </tr>
+                                <tr>
+                                    <td>text-yellow</td>
+                                    <td>text color yellow</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark-yellow</td>
+                                    <td>text color dark yellow</td>
+                                </tr>
+                                <tr>
+                                    <td>text-brown</td>
+                                    <td>text color brown</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark-brown</td>
+                                    <td>text color dark brown</td>
+                                </tr>
+                                <tr>
+                                    <td>text-violet</td>
+                                    <td>text color violet</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark-violet</td>
+                                    <td>text color dark violet</td>
+                                </tr>
+                                <tr>
+                                    <td>text-dark</td>
+                                    <td>text color with black rgba</td>
+                                </tr>
+                                <tr>
+                                    <td>to-left</td>
+                                    <td>Floating element to left</td>
+                                </tr>
+                                <tr>
+                                    <td>to-right</td>
+                                    <td>Floating element to right</td>
+                                </tr>
+                                <tr>
+                                    <td>center-me</td>
+                                    <td>Center element</td>
+                                </tr>
+                                <tr>
+                                    <td>blue</td>
+                                    <td>Background blue</td>
+                                </tr>
+                                <tr>
+                                    <td>blue</td>
+                                    <td>Background blue</td>
+                                </tr>
+                                <tr>
+                                    <td>dark-blue</td>
+                                    <td>Background dark blue</td>
+                                </tr>
+                                <tr>
+                                    <td>red</td>
+                                    <td>Background red</td>
+                                </tr>
+                                <tr>
+                                    <td>dark-red</td>
+                                    <td>Background dark red</td>
+                                </tr>
+                                <tr>
+                                    <td>green</td>
+                                    <td>Background green</td>
+                                </tr>
+                                <tr>
+                                    <td>dark green</td>
+                                    <td>Background dark green</td>
+                                </tr>
+                                <tr>
+                                    <td>yellow</td>
+                                    <td>Background yellow</td>
+                                </tr>
+                                <tr>
+                                    <td>dark-yellow</td>
+                                    <td>Background dark yellow</td>
+                                </tr>
+                                <tr>
+                                    <td>brown</td>
+                                    <td>Background brown</td>
+                                </tr>
+                                <tr>
+                                    <td>dark brown</td>
+                                    <td>Background dark brown</td>
+                                </tr>
+                                <tr>
+                                    <td>violet</td>
+                                    <td>Background violet</td>
+                                </tr>
+                                <tr>
+                                    <td>dark violet</td>
+                                    <td>Background dark violet</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <p>Please see how is look a page builted with Visual Composer</p>
+                        <img src="img/theme/Hotelia-one.jpeg" alt="test">
+
+                    </div>
+
+                    <!-- Main Slider -->
+                    <div class="section-demo">
+                        <h2 id="main-slider">Shortcodes</h2>
+                        <div class="description">
+                           <h3>Visual Composer</h3>
+                           <img src="http://teslathemes.com/wp-content/uploads/2014/06/Visual-composer.png" alt="vc">
+                           <br>
+                           <br>
+                           <p>Visual Composer for WordPress is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.</p>
+                            <p>
+                                Have you ever noticed how much time you spend fighting with [shortcodes]? No more trial and errors with “shortcodes magic” – Visual Composer will take care of that.
+                            </p>
+                            <p>
+                                With the Visual Composer your are able to work with responsive design – check out how you website will look on mobile devices during page building process with one click only.
+                            </p>
+                            <p>
+                                Add columns, rows and choose from 40+ predefined elements divided in logic groups with single click, by using intuitive and handy UI. Then simply use your mouse to drag elements around to re-arrange them. Or use your creativity and skills to extend Visual Composer with unique elements by using our developer API.
+                            </p>
+                            <p>
+                                Visual Composer is #1 Best Selling drag and drop frontend and backend page builder with 70k+ websites already powered. Join now and create beautiful websites in shortest possible time and with minimum efforts and of course – no coding and [shortcodes].
+                            </p>
+                            <p>
+                                For more information about Visual composer you can find here: 
+                                <a href="http://kb.wpbakery.com/index.php?title=Visual_Composer">http://kb.wpbakery.com/index.php?title=Visual_Composer</a>
+                            </p>
+                            <h3>Shortcodes Available in Visual composer</h3>
+                            <img src="img/theme/Hotelia-two.jpeg" alt="shortcode">
+                            <ul>
+                                <li>
+                                    <h5>Row</h5>
+                                    <p>Insert Row</p>
+                                </li>
+                                <li>
+                                    <h5>Text Block</h5>
+                                    <p>Insert text using default editor</p>
+                                </li>
+                                <li>
+                                    <h5>Separator</h5>
+                                    <p>Insert horizontal line</p>
+                                </li>
+                                <li>
+                                    <h5>Separator width text</h5>
+                                    <p>Insert header with line</p>
+                                </li>
+                                <li>
+                                    <h5>Message box</h5>
+                                    <p>Insert Alert box</p>
+                                </li>
+                                <li>
+                                    <h5>facebook, Twitter, Google+, Pinterest</h5>
+                                    <p>Insert social sharing buttons</p>
+                                </li>
+                                <li>
+                                    <h5>FAQ</h5>
+                                    <p>Insert FAQ toggle</p>
+                                </li>
+                                <li>
+                                    <h5>Single Image</h5>
+                                    <p>Insert single image</p>
+                                </li>
+                                <li>
+                                    <h5>Image Gallery</h5>
+                                    <p>Insert gallery</p>
+                                </li>
+                                <li>
+                                    <h5>Image carousel</h5>
+                                    <p>Insert carousel</p>
+                                </li>
+                                <li>
+                                    <h5>Tabs</h5>
+                                    <p>Insert Tabs</p>
+                                </li>
+                                <li>
+                                    <h5>Tour section</h5>
+                                    <p>Insert Tour section</p>
+                                </li>
+                                <li>
+                                    <h5>Accordion</h5>
+                                    <p>Insert Accordion</p>
+                                </li>
+                                <li>
+                                    <h5>Post grid</h5>
+                                    <p>Insert Post grid</p>
+                                </li>
+                                <li>
+                                    <h5>Carousel</h5>
+                                    <p>Insert Carousel width posts</p>
+                                </li>
+                                <li>
+                                    <h5>Posts Slider</h5>
+                                    <p>Insert Posts Slider</p>
+                                </li>
+                                <li>
+                                    <h5>Widgeted sidebar</h5>
+                                    <p>Insert Widgeted sidebar</p>
+                                </li>
+                                <li>
+                                    <h5>Buttons</h5>
+                                    <p>Insert Buttons</p>
+                                </li>
+                                <li>
+                                    <h5>Call to action</h5>
+                                    <p>Insert Call to action</p>
+                                </li>
+                                <li>
+                                    <h5>Video player</h5>
+                                    <p>Insert Video player</p>
+                                </li>
+                                <li>
+                                    <h5>Google Map</h5>
+                                    <p>Insert Google Map</p>
+                                </li>
+                                <li>
+                                    <h5>Raw HTML, JS</h5>
+                                    <p>Insert Raw HTML, JS</p>
+                                </li>
+                                <li>
+                                    <h5>Flickr Widget</h5>
+                                    <p>Insert Flickr Widget</p>
+                                </li>
+                                <li>
+                                    <h5>Progress bar</h5>
+                                    <p>Insert Progress bar</p>
+                                </li>
+                                <li>
+                                    <h5>Pie chart</h5>
+                                    <p>Insert Pie chart</p>
+                                </li>
+                                <li>
+                                    <h5>Revolution Slider</h5>
+                                    <p>Insert Revolution Slider</p>
+                                </li>
+                                <li>
+                                    <h5>Empty Space</h5>
+                                    <p>Insert whitespace with custom height </p>
+                                </li>
+                                <li>
+                                    <h5>Custom Heading</h5>
+                                    <p>Heading text with lot of options</p>
+                                </li>
+                                <li>
+                                    <h5>Facilities</h5>
+                                    <p>Insert facilities in your pages</p>
+                                </li>
+                                <li>
+                                    <h5>Gallery</h5>
+                                    <p>Custom Gallery</p>
+                                </li>
+                                <li>
+                                    <h5>Address</h5>
+                                    <p>Insert Address box on your pages</p>
+                                </li>
+                                <li>
+                                    <h5>Contact Form</h5>
+                                    <p>Insert Custom Ajax Contact form</p>
+                                </li>
+                                <li>
+                                    <h5>Booking Form</h5>
+                                    <p>Insert Custom Booking form</p>
+                                </li>
+                                <li>
+                                    <h5>Guest Form</h5>
+                                    <p>Insert Custom Ajax Guest form</p>
+                                </li>
+                                <li>
+                                    <h5>Default widgets</h5>
+                                    <p>Insert widgets as shortcodes</p>
+                                </li>
+                            </ul>
+                            <br>
+                            <br>
+                            <br>
+                            <h3>Revolution Slider</h3>
+                            <br>
+                            <br>
+                            <img src="http://teslathemes.com/wp-content/uploads/2014/05/Revolution-slider.png" alt="revslider">
+                            <br>
+                            <br>
+                            <p>
+                                Create a responsive(mobile friendly) or fullwidth slider with must-see-effects and meanwhile keep or build your SEO optimization (all content always readable for search engines). See the heaps of custom transitions/animations for each object on the page! Customize this slider with our convenient drag&drop backend to your very needs.
+                            </p>
+                            <p>
+                                This plugin features tons of unique transition effects, an image preloader, video embedding, autoplay that stops on user interaction and lots of easy to set options to create your own effects.
+                            </p>
+                        </div>
+                    </div>
+                    <!--/ Main Slider -->
+
+                    
+
+                    <!-- Page Templates -->
+                    <div class="section-demo">
+                        <h2 id="templates">Page Templates</h2>
+                        <p><img class="custom" src="img/templates.png" alt="Templates"></p>
+                        <div class="description">
+                            <p>This easy to use WP feature will help you create fancy layouts with 2 clicks. When adding a page you can choose from different templates:</p>
+                            <ul>
+                                <li>
+                                    <h5>Regular (default)</h5>
+                                    <p>Used width Visual Composer</p>
+                                </li>
+                                <li>
+                                    <h5>One page</h5>
+                                    <p>Template for generate landing pages</p>
+                                </li>
+                            </ul>
+                            <div class="alert alert-info">Note: Some page templates may require additional configuration from custom posts and theme options pages.</div>
+                        </div>
+
+                    </div>
+                    <!--/ Page Templates -->
+
+                    <!-- Widgets -->
+                    <div class="section-demo">
+                        <h2 id="widgets">Widgets</h2>
+                        <div class="description">
+                            <p>Hotelia has 2 custom widgets:</p>
+                            <ul>
+                                <li>Hotelia - ADS</li>
+                                <li>Hotelia - Recent Posts</li>
+                            </ul>
+                            <p>
+                                Also, All default widgets are well styled and can be used in the main sidebar or in footer sidebar
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--/ Widgets -->
+
+                    <div class="section-demo">
+                        <h2 id="woocommerce">WooCommerce</h2>
+                        <div class="description">
+                            <p>Woocommerce polugin is required to be installed in order to use 'Hotelia' theme.</p>
+                            <p>'Hotelia' theme supporting the latest verion of 'WooCommerce' plugin, please foloow steps bellow to setup shopping pages for your project.</p>
+                            <div class="alert alert-info">Please read the plugin documentation <a href="http://www.woothemes.com/woocommerce/">Here</a></div>
+                            <p>After succesfull install, in top menu bar should be appear the shopping cart button</p>
+                            <img src="img/theme/shop-cart.jpeg" alt="shop-cart">
+                            <p>If the shopping cart buttons isn't in your menu bar, we advice you to check your plugin status.</p>
+                            <img src="img/theme/status.jpeg" alt="status">
+                        </div>
+                    </div>
+
+
+                        
+
+                </div>
+                <!--/ content -->
+            </div>
+        </div>
+        <!--/ row-->
+    </div>
+    <!--/ container -->
+</div>
+
+<!-- main JS libs -->
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- Zoom -->
+<script src="js/jquery.zoom.min.js"></script>
+<!-- Scroll Bars -->
+
+<!--[if lt IE 9]>
+<script src="js/libs/html5shiv.js"></script>
+<script src="js/libs/respond.min.js"></script>
+<![endif]-->
+<script src="js/options.js"></script>
+
+
+</body>
+</html>

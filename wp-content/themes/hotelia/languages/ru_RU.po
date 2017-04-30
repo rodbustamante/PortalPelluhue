@@ -1,0 +1,2563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hotelia rus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 13:31+0300\n"
+"PO-Revision-Date: 2015-11-04 13:49+0300\n"
+"Last-Translator: Laconic Team <info@laconic.website>\n"
+"Language-Team: Laconic Team <info@laconic.website>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11 woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: 404.php:13
+msgid "Are you lost?</b> Come in to drink <br> some coffee, or"
+msgstr "Вы потерялись?</b> Заходите выпить<br> кофе, или"
+
+#: 404.php:22
+msgid "Find a room"
+msgstr "Найти комнату"
+
+#: booking/init.php:5 room-searchform.php:14
+msgid "Rooms"
+msgstr "Комнаты"
+
+#: booking/init.php:19
+#, fuzzy
+msgid "Add booking option"
+msgstr "Добавить опцию бронирования"
+
+#: booking/init.php:25
+msgid "Room available from:"
+msgstr "Комната свободна с:"
+
+#: booking/init.php:32
+msgid "Room available to:"
+msgstr "Комната свободна до:"
+
+#: booking/init.php:59
+msgid " / night"
+msgstr "/ ночь"
+
+#: comments.php:18
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:28
+msgid "Add a comment"
+msgstr "Добавить комментарий"
+
+#: content-rooms.php:33
+msgid "Price:"
+msgstr "Цена:"
+
+#: content-rooms.php:34
+msgid "night"
+msgstr "ночь"
+
+#: content-rooms.php:36
+msgid "Book now"
+msgstr "Заказать"
+
+#: content.php:38 template-blog-three.php:61 template-blog-two.php:55
+msgid "No title"
+msgstr "Нет заголовка"
+
+#: content.php:51
+msgid ", "
+msgstr ","
+
+#: content.php:59 template-blog-three.php:82 template-blog-two.php:76
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: footer.php:20
+msgid "Follow"
+msgstr "Подписаться"
+
+#: footer.php:38 guestbook-form.php:23
+#: woocommerce/single-product-reviews.php:77
+msgid "Submit"
+msgstr "Отправить"
+
+#: footer.php:60
+msgid "Usefull link"
+msgstr "Полезная ссылка"
+
+#: functions.php:54
+msgid "Top primary menu"
+msgstr "Верхнее меню"
+
+#: functions.php:55
+msgid "Top menu used for account pages and cart"
+msgstr "Верхнее меню ипользуемое для страниц личного кабинета и корзины"
+
+#: functions.php:57
+msgid "Footer menu"
+msgstr "Меню подвала"
+
+#: functions.php:621 shortcodes/lib/vc_teaser_grid.php:181
+msgid "Read more"
+msgstr "Читать далее"
+
+#: functions.php:647
+msgid "Uncategorized"
+msgstr "Без категории"
+
+#: functions.php:673 functions.php:679 functions.php:693 functions.php:719
+#: functions.php:725 functions.php:739
+#, php-format
+msgid "View all posts in %s"
+msgstr "Просмотреть все в %s"
+
+#: functions.php:789
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: functions.php:790 woocommerce/loop/pagination.php:28
+msgid "Next"
+msgstr "Следующий"
+
+#: functions.php:817
+msgid "Blog Sidebar Area"
+msgstr "Боковая область блога"
+
+#: functions.php:819
+msgid "Sidebar that appears in the header."
+msgstr "Сайдбар, который появляется в заголовке."
+
+#: functions.php:826
+msgid "Footer Widget Area"
+msgstr "Область виджетов внизу"
+
+#: functions.php:828
+msgid "Appears in the footer section of the site."
+msgstr "Появляется в разделе подвала сайта."
+
+#: functions.php:836
+msgid "Woocommerce Widget Area"
+msgstr "Область виджета Woocommerce"
+
+#: functions.php:838
+msgid "Rooms sidebar."
+msgstr "Сайдбар для шаблона \"комната\""
+
+#: functions.php:859 guestbook-form.php:2
+#: woocommerce/single-product-reviews.php:72
+msgid "Name"
+msgstr "Имя"
+
+#: functions.php:863
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: functions.php:867
+msgid "Website"
+msgstr "Сайт"
+
+#: functions.php:871 guestbook-form.php:20
+msgid "Message"
+msgstr "Сообщение"
+
+#: functions.php:875
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. \n"
+"\t                        <a href=\"%3$s\" title=\"Log out of this account"
+"\">Log out?</a>"
+msgstr ""
+"Вы вошли как <a href=\"%1$s\">%2$s</a>. \n"
+"\t                        <a href=\"%3$s\" title=\"Выход из личного кабинета"
+"\">Выйти?</a>"
+
+#: functions.php:884
+msgid "If you want to share your opinion, leave a comment."
+msgstr "Если хотите поделиться мнением, оставьте комментарий."
+
+#: functions.php:890
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Вы можете использовать  <abbr title=\"HyperText Markup Language\">HTML</"
+"abbr> теги и атрибуты:"
+
+#: functions.php:898
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: functions.php:899
+#, php-format
+msgid "Leave a comment to %s"
+msgstr "Оставить комментарий на %s"
+
+#: functions.php:900
+msgid "Cancel reply"
+msgstr "Отменить ответ"
+
+#: functions.php:921
+msgid "Back to comments"
+msgstr "Обратно к комментариям"
+
+#: functions.php:930
+msgid "Write"
+msgstr "Запись"
+
+#: functions.php:984 woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:990
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:996
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий появится после проверки модератором"
+
+#: functions.php:1073
+msgctxt "Taxonomy General Name"
+msgid "Amenities"
+msgstr "Особенности"
+
+#: functions.php:1074
+msgctxt "Taxonomy Singular Name"
+msgid "Amenities"
+msgstr "Особенности"
+
+#: functions.php:1075
+msgid "Amenities"
+msgstr "Особенности"
+
+#: functions.php:1076
+msgid "All Items"
+msgstr "Показать все"
+
+#: functions.php:1077
+msgid "Parent Item"
+msgstr "Родительский элемент"
+
+#: functions.php:1078
+msgid "Parent Item:"
+msgstr "Родительский элемент:"
+
+#: functions.php:1079
+msgid "New Item Name"
+msgstr "Имя нового элемента"
+
+#: functions.php:1080
+msgid "Add New Item"
+msgstr "Добавить новый элемент"
+
+#: functions.php:1081
+msgid "Edit Item"
+msgstr "Редактировать товар"
+
+#: functions.php:1082
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+#: functions.php:1083
+#, fuzzy
+msgid "Separate items with commas"
+msgstr "Элементы, разделенные запятыми"
+
+#: functions.php:1084
+msgid "Search Items"
+msgstr "По цене"
+
+#: functions.php:1085
+msgid "Add or remove items"
+msgstr "Добаить или удалить элементы"
+
+#: functions.php:1086
+msgid "Choose from the most used items"
+msgstr "Выбрать из наиболее используемых элементов"
+
+#: functions.php:1087
+msgid "Not Found"
+msgstr "Nie znaleziono"
+
+#: functions.php:1112
+msgid "Set logo for this item"
+msgstr "Установить логотип для этого элемента"
+
+#: functions.php:1121
+msgid " You selected:"
+msgstr "Вы выбрали:"
+
+#: functions.php:1154
+msgid " from "
+msgstr "от"
+
+#: functions.php:1163
+msgid "From: "
+msgstr "От:"
+
+#: functions.php:1164
+msgid "Reply-To: "
+msgstr "Ответить:"
+
+#: functions.php:1166
+#, fuzzy
+msgid "Message successfully sent."
+msgstr "Сообщение отправлено"
+
+#: functions.php:1168
+msgid "Message could not be sent."
+msgstr "Не удалось отправить сообщение"
+
+#: functions.php:1170
+msgid "Please fill all the fields in the form."
+msgstr "Пожалуйста, заполните все поля формы."
+
+#: functions.php:1239
+msgid "Feedback was submited, thank you!"
+msgstr "Сообщение отправлено, спасибо!"
+
+#: functions.php:1241
+msgid "Feedback could not be submited"
+msgstr "Не удалось отправить сообщение"
+
+#: functions.php:1244
+msgid "Your request was submited"
+msgstr "Ваш запрос отправлен"
+
+#: functions.php:1248
+msgid "Please fill all the fields in the form"
+msgstr "Пожалуйста, заполните все поля формы"
+
+#: functions.php:1337
+msgid "View cart"
+msgstr "Перейти в корзину"
+
+#: functions.php:1355 woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr "Удалить это наименование"
+
+#: functions.php:1358
+msgid "Unit price "
+msgstr "Цена"
+
+#: functions.php:1358
+msgid "Q-ty: "
+msgstr "Кол-во:"
+
+#: functions.php:1363
+#, fuzzy
+msgid "No items in cart. Keep shopping."
+msgstr "Ничего нет в корзине."
+
+#: guestbook-form.php:5 woocommerce/single-product-reviews.php:74
+msgid "Email"
+msgstr "E-Mail"
+
+#: guestbook-form.php:8
+msgid "Give your love"
+msgstr "Ваша оценка"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установить плагины: %s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагином."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начинается установка плагина"
+msgstr[1] "Начинается установка плагинов"
+msgstr[2] "Начинается установка плагинов"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начинается обновление плагина"
+msgstr[1] "Начинается обновление плагинов"
+msgstr[2] "Начинается обновление плагинов"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начинается активация плагина"
+msgstr[1] "Начинается активация плагинов"
+msgstr[2] "Начинается активация плагинов"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Вернутся к установке необходимых плагинов"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Вернуться в панель управления"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не выполнено. Плагин %1$s уже активирован."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы нужна более новая версия плагина %s. "
+"Пожалуйста, обновите его."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Пропустить это уведомление"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, свяжитесь с нами для решения проблемы."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr "Обьязательно"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr "WordPress хранилище"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованые"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr "Активные"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr "Обновить рекомендуемые"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr "Установленная версия"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr "Минимально необходимая версия:"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Нет плагинов для установки, обновления  или активации. <a href=\"%1$s"
+"\">Вернутся в консоль</a>"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr "Плагин"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr "Источник"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr "Тип"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr "Версия"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2448
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr "Статус"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr "Установить"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr "Обновить"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr "Активировать"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Не один из плагинов не был выбран для установки. Действие не выполнено."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Не один из плагинов не был выбран для обновления. Действие не выполнено."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr "На данный момент нет плагинов для установки."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr "На данный момент нет плагинов для обновления."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Запущен процесс установки и активации. Этот процесс может занимать некоторое "
+"время на разных хостинга, пожалуйста, будьте терпеливы."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и Активация Плагина %1$s (%2$d/%3$d)"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Запущен процесс установки. Этот процесс может занимать некоторое время на "
+"разных хостинга, пожалуйста, будьте терпеливы."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: room-searchform.php:34
+msgid "Search for rooms"
+msgstr "Искать комнаты"
+
+#: room-searchform.php:40
+msgid "Check in"
+msgstr "Дата заезда"
+
+#: room-searchform.php:44
+msgid "Check_out"
+msgstr "Дата отъезда"
+
+#: room-searchform.php:47
+msgid "Find now"
+msgstr "Найти"
+
+#: shortcodes/lib/post_block/_item.php:22
+#: shortcodes/lib/vc_posts_slider.php:152 shortcodes/lib/vc_teaser_grid.php:181
+#: shortcodes/lib/vc_teaser_grid.php:202 shortcodes/lib/vc_teaser_grid.php:203
+#: shortcodes/lib/vc_teaser_grid.php:219
+#, php-format
+msgid "Permalink to %s"
+msgstr "Читать полностью %s"
+
+#: shortcodes/lib/post_block/_item.php:22
+msgid "Read more..."
+msgstr "Наверх"
+
+#: shortcodes/lib/vc_flickr.php:19
+msgid "View stream on flickr"
+msgstr "Фотопоток на flickr"
+
+#: shortcodes/lib/vc_item.php:9
+msgid "Item"
+msgstr "Товар"
+
+#: shortcodes/lib/vc_posts_grid.php:130 shortcodes/lib/vc_teaser_grid.php:313
+msgid "All"
+msgstr "Все"
+
+#: shortcodes/lib/vc_posts_grid.php:169 shortcodes/lib/vc_posts_slider.php:192
+#: shortcodes/lib/vc_teaser_grid.php:327
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+#: shortcodes/lib/vc_tab.php:9
+msgid "Empty tab. Edit page to add content here."
+msgstr "Пустая вкладка. Отредактируйте страницу, чтобы добавить контент."
+
+#: shortcodes/lib/vc_tabs.php:44
+msgid "Previous tab"
+msgstr "Предыдущая вкладка"
+
+#: shortcodes/lib/vc_tabs.php:44
+msgid "Next tab"
+msgstr "Следующая вкладка"
+
+#: shortcodes/lib/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr "Кликните, чтобы переключить"
+
+#: shortcodes/lib/vc_tweetmeme.php:9
+msgid "Tweet"
+msgstr "Твитнуть"
+
+#: shortcodes/lib/vc_twitter.php:20
+msgid "Follow us on twitter"
+msgstr "Подпишитесь на нас в Twitter"
+
+#: shortcodes/lib/vc_wp_archives.php:4
+msgid "Archives"
+msgstr "Архивы"
+
+#: shortcodes/lib/vc_wp_categories.php:4
+msgid "Categories"
+msgstr "Разделы"
+
+#: shortcodes/lib/vc_wp_meta.php:4
+msgid "Meta"
+msgstr "Мета"
+
+#: shortcodes/lib/vc_wp_pages.php:4
+msgid "Pages"
+msgstr "Страницы"
+
+#: shortcodes/lib/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr "Последние публикации"
+
+#: shortcodes/lib/vc_wp_recentcomments.php:4
+msgid "Recent Comments"
+msgstr "Новые комментарии"
+
+#: shortcodes/lib/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr "Метки"
+
+#: shortcodes/map.php:11 shortcodes/map.php:433 shortcodes/map.php:488
+#: shortcodes/map.php:528 shortcodes/map.php:568
+msgid "CSS Animation"
+msgstr "CSS анимация"
+
+#: shortcodes/map.php:15 shortcodes/map.php:436 shortcodes/map.php:491
+#: shortcodes/map.php:531 shortcodes/map.php:571
+msgid "No"
+msgstr "Нет"
+
+#: shortcodes/map.php:16 shortcodes/map.php:436 shortcodes/map.php:491
+#: shortcodes/map.php:531 shortcodes/map.php:571
+msgid "Top to bottom"
+msgstr "Сверху вниз"
+
+#: shortcodes/map.php:17 shortcodes/map.php:436 shortcodes/map.php:491
+#: shortcodes/map.php:531 shortcodes/map.php:571
+msgid "Bottom to top"
+msgstr "Снизу вверх"
+
+#: shortcodes/map.php:18 shortcodes/map.php:436 shortcodes/map.php:491
+#: shortcodes/map.php:531 shortcodes/map.php:571
+msgid "Left to right"
+msgstr "Слева направо"
+
+#: shortcodes/map.php:19 shortcodes/map.php:436 shortcodes/map.php:491
+#: shortcodes/map.php:531 shortcodes/map.php:571
+msgid "Right to left"
+msgstr "Справа налево"
+
+#: shortcodes/map.php:20 shortcodes/map.php:436 shortcodes/map.php:491
+#: shortcodes/map.php:531 shortcodes/map.php:571
+msgid "Appear from center"
+msgstr "Появляется из центра"
+
+#: shortcodes/map.php:22 shortcodes/map.php:437 shortcodes/map.php:492
+#: shortcodes/map.php:532 shortcodes/map.php:572
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+"Выбрать тип анимации, если вы хотите чтобы объекты были анимированы при "
+"попадании в поле зрения."
+
+#: shortcodes/map.php:26
+msgid "1 column - 1/12"
+msgstr "1 колонка - 1/12"
+
+#: shortcodes/map.php:27
+msgid "2 columns - 1/6"
+msgstr "2 колонки - 1/6"
+
+#: shortcodes/map.php:28
+msgid "3 columns - 1/4"
+msgstr "3 колонки - 1/4"
+
+#: shortcodes/map.php:29
+msgid "4 columns - 1/3"
+msgstr "4 колонки - 1/3"
+
+#: shortcodes/map.php:30
+msgid "5 columns - 5/12"
+msgstr "5 колонок - 5/12"
+
+#: shortcodes/map.php:31
+msgid "6 columns - 1/2"
+msgstr "6 колонок - 1/2"
+
+#: shortcodes/map.php:32
+msgid "7 columns - 7/12"
+msgstr "7 колонок - 7/12"
+
+#: shortcodes/map.php:33
+msgid "8 columns - 2/3"
+msgstr "8 колонок - 2/3"
+
+#: shortcodes/map.php:34
+msgid "9 columns - 3/4"
+msgstr "9 колонок - 3/4"
+
+#: shortcodes/map.php:35
+msgid "10 columns - 5/6"
+msgstr "10 колонок - 5/6"
+
+#: shortcodes/map.php:36
+msgid "11 columns - 11/12"
+msgstr "11 колонок - 11/12"
+
+#: shortcodes/map.php:37
+msgid "12 columns - 1/1"
+msgstr "12 колонок - 1/1"
+
+#: shortcodes/map.php:41
+msgid "Row"
+msgstr "Строка"
+
+#: shortcodes/map.php:46 shortcodes/map.php:136 shortcodes/map.php:238
+#: shortcodes/map.php:302 shortcodes/map.php:336 shortcodes/map.php:384
+#: shortcodes/map.php:470 shortcodes/map.php:510 shortcodes/map.php:550
+msgid "Content"
+msgstr "Контент"
+
+#: shortcodes/map.php:47
+msgid "Place content elements inside the row"
+msgstr "Поместите элементы внутри строки"
+
+#: shortcodes/map.php:51
+msgid "Full size"
+msgstr "Полный размер"
+
+#: shortcodes/map.php:53
+msgid "Make section 100% wide without container"
+msgstr "Сделать секцию по ширине 100%, без контейнера"
+
+#: shortcodes/map.php:55
+msgid "Don't use container"
+msgstr "Не использовать конейнер"
+
+#: shortcodes/map.php:59
+msgid "Use parallax for background-image"
+msgstr "Использовать паралакс для фонового изображения"
+
+#: shortcodes/map.php:61
+msgid "Enable parallax for this section"
+msgstr "Включить паралакс для этой секции"
+
+#: shortcodes/map.php:63
+msgid "Allow parallax"
+msgstr "Разрешить паралакс"
+
+#: shortcodes/map.php:67
+msgid "Video Background"
+msgstr "Фоновое видео"
+
+#: shortcodes/map.php:69
+msgid "Enable video background for this section"
+msgstr "Включить видео на заднем фоне для этой секции"
+
+#: shortcodes/map.php:71
+msgid "Allow video"
+msgstr "Разрешить видео"
+
+#: shortcodes/map.php:75
+msgid "Video source (mp4)"
+msgstr ""
+
+#: shortcodes/map.php:77 shortcodes/map.php:88 shortcodes/map.php:99
+msgid "Provide video source in mp4"
+msgstr "Предоставьте источник видео в mp4"
+
+#: shortcodes/map.php:86
+msgid "Video source (ogg)"
+msgstr ""
+
+#: shortcodes/map.php:97
+msgid "Video source (webm)"
+msgstr ""
+
+#: shortcodes/map.php:108
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: shortcodes/map.php:110
+msgid "Select font color"
+msgstr "Выбрать цвет шрифта"
+
+#: shortcodes/map.php:115 shortcodes/map.php:217 shortcodes/map.php:280
+#: shortcodes/map.php:315 shortcodes/map.php:363 shortcodes/map.php:441
+#: shortcodes/map.php:475 shortcodes/map.php:515 shortcodes/map.php:555
+msgid "Extra class name"
+msgstr "Extra class name"
+
+#: shortcodes/map.php:117 shortcodes/map.php:219 shortcodes/map.php:282
+#: shortcodes/map.php:317 shortcodes/map.php:365 shortcodes/map.php:443
+#: shortcodes/map.php:477 shortcodes/map.php:517 shortcodes/map.php:557
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Если вы хотите стилизовать конкретный элемент контента по-другому, добавьте "
+"имя класса и используйте его в вашем CSS файле."
+
+#: shortcodes/map.php:121 shortcodes/map.php:223 shortcodes/map.php:286
+#: shortcodes/map.php:321 shortcodes/map.php:369 shortcodes/map.php:447
+#: shortcodes/map.php:454 shortcodes/map.php:481 shortcodes/map.php:496
+#: shortcodes/map.php:521 shortcodes/map.php:536 shortcodes/map.php:561
+#: shortcodes/map.php:576
+msgid "Css"
+msgstr "CSS"
+
+#: shortcodes/map.php:124 shortcodes/map.php:226 shortcodes/map.php:289
+#: shortcodes/map.php:324 shortcodes/map.php:372 shortcodes/map.php:450
+#: shortcodes/map.php:484 shortcodes/map.php:524 shortcodes/map.php:564
+msgid "Design options"
+msgstr "Настройки дизайна"
+
+#: shortcodes/map.php:132
+msgid "Custom Heading"
+msgstr "Свой заголовок"
+
+#: shortcodes/map.php:137
+msgid "Add custom heading text with google fonts"
+msgstr "Добавить текст произвольного заголовка с шрифтами Google"
+
+#: shortcodes/map.php:141
+#, fuzzy
+msgid "Heading Text"
+msgstr "Текст заголовка"
+
+#: shortcodes/map.php:144
+msgid "This is custom heading element with Google Fonts"
+msgstr "Это элемент заголовка со шрифтами Google"
+
+#: shortcodes/map.php:145 shortcodes/map.php:153
+msgid ""
+"Enter your content. If you are using non-latin characters be sure to "
+"activate them under Settings/Visual Composer/General Settings."
+msgstr ""
+"Введите ваш контент. Если вы используете не-латинские символы убедитесь, что "
+"они активированы в разделе Настройки / Visual Composer / Общие настройки."
+
+#: shortcodes/map.php:149
+#, fuzzy
+msgid "Heading Description"
+msgstr "Описание заголовка"
+
+#: shortcodes/map.php:152
+msgid "This is a description"
+msgstr "Это описание"
+
+#: shortcodes/map.php:157
+msgid "Separator width"
+msgstr "Ширина разделителя"
+
+#: shortcodes/map.php:159
+msgid "Choose range between 0 and 100."
+msgstr "Выберите диапазон от 0 до 100"
+
+#: shortcodes/map.php:166
+msgid "Link"
+msgstr "Ссылка"
+
+#: shortcodes/map.php:168
+msgid "porvide url for heading"
+msgstr "предоставьте URL для заголовка"
+
+#: shortcodes/map.php:188
+msgid "Select element tag."
+msgstr "Выбрать тег элемента."
+
+#: shortcodes/map.php:189
+msgid "Select text alignment."
+msgstr "Выбрать выравнивание текста."
+
+#: shortcodes/map.php:190
+msgid "Enter font size."
+msgstr "Ввести размер шрифта."
+
+#: shortcodes/map.php:191
+msgid "Enter line height."
+msgstr "Ввести высоту строки."
+
+#: shortcodes/map.php:192
+msgid "Select color for your element."
+msgstr "Выберите цвет для элемента."
+
+#: shortcodes/map.php:209
+msgid "Select font family."
+msgstr "Выбрать семейство шрифта."
+
+#: shortcodes/map.php:210
+msgid "Select font styling."
+msgstr "Выбрать стиль шрифта."
+
+#: shortcodes/map.php:234
+msgid "Facilities"
+msgstr "Возможности, удобства"
+
+#: shortcodes/map.php:239
+msgid "Add facilities on your page"
+msgstr "Добавить описание удобств, возможностей на страницу"
+
+#: shortcodes/map.php:243
+msgid "Contact info"
+msgstr "Контактактная информация"
+
+#: shortcodes/map.php:245
+msgid "Enter values for graph - value, title and color."
+msgstr "Введите значения для графика - значение, название и цвет."
+
+#: shortcodes/map.php:256
+msgid "Facility image"
+msgstr "Изображение для \"Возможности\""
+
+#: shortcodes/map.php:259
+msgid "Select image from media library."
+msgstr "Выберите изображения из библиотеки."
+
+#: shortcodes/map.php:263
+msgid "Facility name"
+msgstr "Название для \"Возможности\""
+
+#: shortcodes/map.php:265
+msgid "Enter text used as facility title"
+msgstr "Введите текст для названия возможности"
+
+#: shortcodes/map.php:270
+msgid "Facility link"
+msgstr "Ссылка для \"Возможности\""
+
+#: shortcodes/map.php:272
+msgid "Enter url for facility description"
+msgstr "Введите URL страницы описания возможности"
+
+#: shortcodes/map.php:298
+msgid "Gallery"
+msgstr "Галерея"
+
+#: shortcodes/map.php:303 shortcodes/map.php:337
+msgid "Create gallery "
+msgstr "Создать галерею"
+
+#: shortcodes/map.php:307
+msgid "Images"
+msgstr "Изображения"
+
+#: shortcodes/map.php:310
+msgid "Select images from media library."
+msgstr "Выберите картинки из библиотеки"
+
+#: shortcodes/map.php:332
+msgid "Address"
+msgstr "Адрес"
+
+#: shortcodes/map.php:341
+msgid "Address (town, street, zip, etc.)"
+msgstr "Адрес (город, улица, индекс, и т.п.)"
+
+#: shortcodes/map.php:343 shortcodes/map.php:350 shortcodes/map.php:357
+msgid ""
+"Input graph values, titles and color here. Divide values with linebreaks "
+"(Enter). Example: 90|Development|#e75956"
+msgstr ""
+"Введите значения, цвета и заголовки. Разделяйте значения переводом строки "
+"(Enter). Пример: 90|Разработка|#e75956"
+
+#: shortcodes/map.php:348
+msgid "Phone numbers"
+msgstr "Номера телефонов"
+
+#: shortcodes/map.php:355
+msgid "Email addresses"
+msgstr "Email адреса"
+
+#: shortcodes/map.php:379
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: shortcodes/map.php:385 shortcodes/map.php:511
+msgid "Contact form"
+msgstr "Обратная связь"
+
+#: shortcodes/map.php:389
+#, fuzzy
+msgid "Input Size"
+msgstr "Входной Размер"
+
+#: shortcodes/map.php:392 shortcodes/map.php:399
+#, fuzzy
+msgid "Set size for inputs"
+msgstr "Установить размер для входных"
+
+#: shortcodes/map.php:396
+msgid "Text Size"
+msgstr "Размер Текста"
+
+#: shortcodes/map.php:403
+msgid "Placeholder for 'Name input'"
+msgstr "Элемент для  'Name input'"
+
+#: shortcodes/map.php:405 shortcodes/map.php:411 shortcodes/map.php:417
+#: shortcodes/map.php:423
+msgid "This string will be used as placeholder"
+msgstr "Эта строка будет в поле для ввода"
+
+#: shortcodes/map.php:409
+msgid "Placeholder for 'E-mail input'"
+msgstr "Элемент для 'E-mail input'"
+
+#: shortcodes/map.php:415
+msgid "Placeholder for 'Web input'"
+msgstr "Элемент для  'Web input'"
+
+#: shortcodes/map.php:421
+msgid "Placeholder for 'Textarea'"
+msgstr "Элемент для  'Textarea'"
+
+#: shortcodes/map.php:427
+msgid "Submit button value"
+msgstr "Надпись на кнопке Отправить"
+
+#: shortcodes/map.php:429
+msgid "Give submit button name"
+msgstr "Назовите кнопку \"Отправить\""
+
+#: shortcodes/map.php:457 shortcodes/map.php:499 shortcodes/map.php:539
+#: shortcodes/map.php:579
+msgid "Button options"
+msgstr "Опции Кнопки"
+
+#: shortcodes/map.php:465
+msgid "Booking Form"
+msgstr "Форма бронирования"
+
+#: shortcodes/map.php:471
+msgid "Booking form"
+msgstr "Форма бронирования"
+
+#: shortcodes/map.php:505
+msgid "Review Form"
+msgstr "Форма отзыва"
+
+#: shortcodes/map.php:545
+msgid "Guestbook Form"
+msgstr "Форма гостевой книги"
+
+#: shortcodes/map.php:551
+msgid "Guestbook form to submit client's feedback"
+msgstr "Форма гостевой книги для отправки сообщений клиентами"
+
+#: template-blog-three.php:74 template-blog-two.php:68
+msgctxt ""
+msgid ", "
+msgstr ","
+
+#: template-blog.php:13
+msgid "No results found"
+msgstr "Ничего не найдено"
+
+#: template-blog.php:19
+msgid "Comments"
+msgstr "Комменты"
+
+#: tesla_framework/core/tesla_slider.php:1236
+#: tesla_framework/core/tesla_slider.php:1249
+msgctxt "portfolio category order"
+msgid "Order"
+msgstr "Сортировка [порядок категорий портфолио]"
+
+#: tesla_framework/core/tesla_slider.php:1238
+#: tesla_framework/core/tesla_slider.php:1252
+msgctxt "portfolio category order"
+msgid "Set the order in which the categories should be displayed."
+msgstr "Установить в  каком порядке должны отображаються категории портфолио"
+
+#: tesla_framework/core/tesla_slider.php:1269
+msgctxt "portfolio category order column"
+msgid "Order"
+msgstr "Заказ"
+
+#: tesla_framework/core/teslaframework.php:37
+msgid "Simple Meta Box fields"
+msgstr ""
+
+#: tesla_framework/core/tt_contact_form.php:69
+msgid "From "
+msgstr "От"
+
+#: tesla_framework/core/tt_contact_form.php:69
+msgid " Contact Form "
+msgstr "Контактная форма"
+
+#: tesla_framework/core/tt_subscription.php:69
+msgid "Subscribed"
+msgstr "Вы подписаны"
+
+#: tesla_framework/core/tt_subscription.php:71
+msgid "Error"
+msgstr "Ошибка"
+
+#: tesla_framework/core/tt_subscription.php:75
+msgid "MailChimp Error"
+msgstr "Ошибка MailChimp"
+
+#: tesla_framework/core/tt_subscription.php:82
+msgid "No data received"
+msgstr "Не полученны данные"
+
+#: tesla_framework/core/tt_subscription.php:110
+msgid "No API key for mailchimp"
+msgstr "Нет API key для mailchimp"
+
+#: tesla_framework/core/tt_subscription.php:124
+msgid "Not a valid mailchimp api key."
+msgstr "Неверный  api key mailchimp."
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr "Удалить это изображение"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr "Удалить"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr "Не удается удалить файл. Что-то не так."
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:629
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:438
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:477
+#: tesla_framework/views/admin.php:137
+msgid "Remove"
+msgstr "Удалить"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:595
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:450
+msgid "Add"
+msgstr "Добавить"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr "Закачанные файлы"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr "Закачать новые файлы"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr "Добавить еще файлы"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:947
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:804
+msgid "Select a color"
+msgstr "Выбрать цвет"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:145
+#: tesla_framework/extensions/autoimport/autoimporter.php:153
+#: tesla_framework/extensions/autoimport/autoimporter.php:235
+#: tesla_framework/extensions/autoimport/autoimporter.php:239
+#: tesla_framework/extensions/autoimport/autoimporter.php:248
+msgid "Sorry, there has been an error."
+msgstr "Возникла ошибка."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:146
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, попробуйте еще раз."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:240
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Файл экспорта не найден в <code>%s</code>. Возможно это вызвано проблемой "
+"доступа."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:256
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"WXR файл (версия %s) может не поддерживаться этой версией импортера. "
+"Пожалуйста, займитесь обновлением."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:280
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автора %s. Его записи будут присвоены текущему "
+"пользователю."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:340
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для %s. Эти записи будут присвоены "
+"текущему пользователю."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:391
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать Категория  %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:431
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать метку записи %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:477
+#: tesla_framework/extensions/autoimport/autoimporter.php:618
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:503
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать &#8220;%s&#8221;: недопустимый тип записи %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:525
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:584
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункты меню пропущен из-за отсутствия ярлыка"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Из-за некорректных ярлыков пропущены пункты меню: %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:819
+msgid "Fetching attachments is not enabled"
+msgstr "Получение вложений не включено"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:832
+msgid "Invalid file type"
+msgstr "Недопустимый тип файла"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:876
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не отвечает"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер вернул ошибку %1$d %2$s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:889
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:894
+msgid "Zero size file downloaded"
+msgstr "Загружен пустой файл"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком большой, ограничение %s"
+
+#: tesla_framework/extensions/autoimport/parsers.php:43
+#: tesla_framework/extensions/autoimport/parsers.php:75
+#: tesla_framework/extensions/autoimport/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr "Произошла ошибка при чтении этого WXR файла"
+
+#: tesla_framework/extensions/autoimport/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности показаны выше. Теперь попробуйте импортировать еще раз с другим "
+"парсером…"
+
+#: tesla_framework/extensions/autoimport/parsers.php:87
+#: tesla_framework/extensions/autoimport/parsers.php:92
+#: tesla_framework/extensions/autoimport/parsers.php:283
+#: tesla_framework/extensions/autoimport/parsers.php:473
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Не определяется как WXR файл, отсутствует/недействителен номер версии WXR"
+
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1884
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1892
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+"Вы не можете закачать этот файл, потому что он не соответствует типу этого "
+"поля."
+
+#: tesla_framework/helpers/instagram.php:98
+msgid "No username inserted in instagram widget"
+msgstr "В виджете instagram не заполнено имя пользователя"
+
+#: tesla_framework/views/admin.php:21
+msgid "Documentation"
+msgstr "Документация"
+
+#: tesla_framework/views/admin.php:24
+msgid "Support"
+msgstr "Поддержка"
+
+#: tesla_framework/views/admin.php:27
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: tesla_framework/views/admin.php:31
+msgid " Version "
+msgstr "Версия"
+
+#: tesla_framework/views/admin.php:32
+msgid "Framework "
+msgstr "Framework"
+
+#: tesla_framework/views/admin.php:32
+msgid "Version "
+msgstr "Версия"
+
+#: tesla_framework/views/admin.php:53 tesla_framework/views/admin.php:81
+#: tesla_framework/views/admin.php:115 tesla_framework/views/admin.php:157
+#: tesla_framework/views/options/button.php:5
+#: tesla_framework/views/options/image_upload.php:13
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: tesla_framework/views/admin.php:155
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: tesla_framework/views/options/image_upload.php:15
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: tesla_framework/views/options/image_upload.php:17
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: tesla_framework/views/options/image_upload.php:19
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: tesla_framework/views/options/text.php:45
+msgid "Text Logo Preview"
+msgstr "Предварительный просмотр логотипа в виде текста"
+
+#: tesla_framework/widgets/instagram.php:13
+msgctxt "dashboard-widgets"
+msgid "Instagram feed."
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:35
+msgid "Instagram"
+msgstr "Instagram"
+
+#: tesla_framework/widgets/instagram.php:42
+#: tesla_framework/widgets/twitter.php:64
+msgctxt "dashboard-widgets"
+msgid "Title:"
+msgstr "Название:"
+
+#: tesla_framework/widgets/instagram.php:45
+msgctxt "dashboard-widgets"
+msgid "Image nr:"
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:48
+msgctxt "dashboard-widgets"
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+#: tesla_framework/widgets/instagram.php:51
+msgctxt "dashboard-widgets"
+msgid "Cache Hours:"
+msgstr "Часы кэширования:"
+
+#: tesla_framework/widgets/twitter.php:10
+msgctxt "dashboard-widgets"
+msgid "Twitter feed."
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:70
+msgctxt "dashboard-widgets"
+msgid "Twitter user:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:76
+msgctxt "dashboard-widgets"
+msgid "Number of tweets to show:"
+msgstr "Количество твитов для показа:"
+
+#: tesla_framework/widgets/twitter.php:80
+msgctxt "dashboard-widgets"
+msgid "Visit"
+msgstr "Визит"
+
+#: tesla_framework/widgets/twitter.php:80
+msgctxt "dashboard-widgets"
+msgid "Twitter Apps"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:80
+msgctxt "dashboard-widgets"
+msgid ""
+"create your App; press 'Create Access token' at the bottom; insert the "
+"following from the 'Keys and Access Tokens' tab."
+msgstr "создать Ваше Приложение; нажмите ''"
+
+#: tesla_framework/widgets/twitter.php:83
+msgctxt "dashboard-widgets"
+msgid "Consumer Key:"
+msgstr "Consumer Key:"
+
+#: tesla_framework/widgets/twitter.php:89
+msgctxt "dashboard-widgets"
+msgid "Consumer Secret:"
+msgstr "Consumer Secret:"
+
+#: tesla_framework/widgets/twitter.php:95
+msgctxt "dashboard-widgets"
+msgid "Access Token:"
+msgstr "Access Token:"
+
+#: tesla_framework/widgets/twitter.php:101
+msgctxt "dashboard-widgets"
+msgid "Access Token Secret:"
+msgstr "Access Token Secret:"
+
+#: woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr "Ваша корзина пока пуста."
+
+#: woocommerce/cart/cart-empty.php:21
+msgid "Return To Shop"
+msgstr "Вернуться в магазин"
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr "Доставка #%d"
+
+#: woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr "Доставка"
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Пожалуйста воспользуйтесь калькулятором стоимости доставки, чтобы увидеть "
+"все доступные методы доставки."
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Пожалуйста перейдите к оформлению заказа, введите свой полный адрес, чтобы "
+"выяснить наличие всех доступных методов доставки."
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"Пожалуйста, заполните свои данные, чтобы увидеть доступные способы доставки."
+
+#: woocommerce/cart/cart-shipping.php:72 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"Нет каких-либо доступных методов доставки. Проверьте ваш адрес, или "
+"свяжитесь с нами, если вам нужна помощь."
+
+#: woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr "Доставка"
+
+#: woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr "Ваш заказ"
+
+#: woocommerce/cart/cart-totals.php:21 woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr "Итого:"
+
+#: woocommerce/cart/cart-totals.php:75 woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr "Общая сумма"
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(налоги рассчитанные для %s)"
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Примечание: Доставка и налоги исчисляются %s и будут обновляться в ходе "
+"проверки на основании вашего счета и информации о доставке"
+
+#: woocommerce/cart/cart.php:17
+msgid "Cart"
+msgstr "Заказ"
+
+#: woocommerce/cart/cart.php:37 woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr "Продукт"
+
+#: woocommerce/cart/cart.php:38
+msgid "Price"
+msgstr "Цена"
+
+#: woocommerce/cart/cart.php:39
+msgid "Quantity"
+msgstr "Количество"
+
+#: woocommerce/cart/cart.php:40 woocommerce/checkout/review-order.php:19
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr "Всего"
+
+#: woocommerce/cart/cart.php:84
+msgid "Available on backorder"
+msgstr "Доступно для предварительного заказа"
+
+#: woocommerce/cart/cart.php:131
+msgid "Coupon"
+msgstr "Купон"
+
+#: woocommerce/cart/cart.php:132 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: woocommerce/cart/cart.php:133 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr "Применить купон"
+
+#: woocommerce/cart/cart.php:146
+msgid "Update Cart"
+msgstr "Пересчитать заказ"
+
+#: woocommerce/cart/cart.php:149
+msgid "Proceed to Checkout"
+msgstr "Оформить заказ"
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr "﻿Возможно, вас заинтересует&hellip;"
+
+#: woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr "В вашей корзине ничего нет."
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr "Итого"
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr "Корзина"
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Рассчитать стоимость доставки"
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr "Выберите страну&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr "Область / Район"
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr "Выберите регион&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr "Город"
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "Почтовый индекс"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr "Обновить сумму заказа"
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Возникли проблемы с товарами в корзине (указаны выше). Просим вернуться на "
+"страницу корзины и попробовать решить эти проблемы до оплаты."
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr "Назад в корзину"
+
+#: woocommerce/checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "Оплата и Доставка"
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing Details"
+msgstr "Детали заказа"
+
+#: woocommerce/checkout/form-billing.php:39
+msgid "Create an account?"
+msgstr "Зарегистрироваться?"
+
+#: woocommerce/checkout/form-billing.php:50
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Чтобы зарегистрироваться, заполните форму. Если вы уже зарегистрированы, "
+"нажмите 'Войти' вверху страницы."
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr "Чтобы оформить заказ, вам необходимо авторизоваться."
+
+#: woocommerce/checkout/form-checkout.php:58
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "Есть купон?"
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr "Нажмите здесь, чтобы ввести ваш код"
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr "Член клуба?"
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr "Нажмите здесь для авторизации"
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Если вы уже регистрировались у нас, пожалуйста введите ваши данные в полях "
+"ниже."
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr "Кол-во"
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr "Сумма"
+
+#: woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr "Оплата"
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"К сожалению, у нас не предусмотрены методы оплаты, доступные для вашей "
+"страны. Пожалуйста, свяжитесь с нами, если вам необходима консультация."
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr "Оплатить заказ"
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr "Доставить по другому адресу?"
+
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"К сожалению, ваш заказ не может быть обработан, так как банк отказал в "
+"транзакции."
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Пожалуйста, попробуйте оформить заказ еще раз или перейдите на страницу "
+"своей учетной записи."
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr "Пожалуйста, попробуйте повторить покупку."
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr "Оплатить"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Мой Аккаунт"
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr "Спасибо. Ваш заказ принят."
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr "Сортировать:"
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr "Дата:"
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr "Всего:"
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr "Способ оплаты:"
+
+#: woocommerce/content-single-product.php:32
+msgid "Room is available"
+msgstr "Комната свободна"
+
+#: woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr "Товары помеченные &ldquo;"
+
+#: woocommerce/global/breadcrumb.php:91 woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr "Результат поиска: &ldquo;"
+
+#: woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr "Записи с тегами &ldquo;"
+
+#: woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr "Автор:"
+
+#: woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr "Страница"
+
+#: woocommerce/global/form-login.php:22
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid "Username or email"
+msgstr "Введите имя пользователя или адрес электронной почты"
+
+#: woocommerce/global/form-login.php:26 woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:85
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/global/form-login.php:36 woocommerce/myaccount/form-login.php:24
+#: woocommerce/myaccount/form-login.php:43
+msgid "Login"
+msgstr "Вход"
+
+#: woocommerce/global/form-login.php:39 woocommerce/myaccount/form-login.php:45
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: woocommerce/global/form-login.php:43 woocommerce/myaccount/form-login.php:49
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: woocommerce/global/quantity-input.php:12
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Кол-во"
+
+#: woocommerce/loop/no-products-found.php:15
+msgid "No products were found matching your selection."
+msgstr "Не найдены товары, соответствующие вашему выбору."
+
+#: woocommerce/loop/orderby.php:22
+msgid "Default sorting"
+msgstr "Сортировка по умолчанию"
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by popularity"
+msgstr "Сортировать по популярности"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by average rating"
+msgstr "По усредненному рейтингу"
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by newness"
+msgstr "По новизне"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: low to high"
+msgstr "Цена: по возрастанию"
+
+#: woocommerce/loop/orderby.php:27
+msgid "Sort by price: high to low"
+msgstr "Цена: по убыванию"
+
+#: woocommerce/loop/pagination.php:27
+msgid "Prev"
+msgstr "Пред."
+
+#: woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgstr "Найден один результат"
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d results"
+msgstr "Показаны все %d"
+
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr "Показаны результаты %1$d–%2$d из %3$d"
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr "Рапродажа!"
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"К сожалению, добавление нового метода оплаты не предусмотрено. Пожалуйста, "
+"свяжитесь с нами, если вам необходима консультация или специальные условия."
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr "Способ оплаты:"
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:36
+msgid "New password"
+msgstr "Новый пароль"
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Re-enter new password"
+msgstr "Повторите новый пароль"
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:52
+msgid "Save"
+msgstr "Сохранить"
+
+#: woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr "Имя"
+
+#: woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr "Фамилия"
+
+#: woocommerce/myaccount/form-edit-account.php:28
+#: woocommerce/myaccount/form-login.php:78
+msgid "Email address"
+msgstr "E-mail адрес"
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr "Пароль (оставьте пустым, если не хотите его менять)"
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr "Адрес покупателя"
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: woocommerce/myaccount/form-edit-address.php:40
+msgid "Save Address"
+msgstr "Сохранить адрес"
+
+#: woocommerce/myaccount/form-login.php:31
+msgid "Username or email address"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-login.php:99
+msgid "Register"
+msgstr "Регистрация"
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "Anti-spam"
+msgstr "Анти-спам"
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"Забыли ваш пароль? Пожалуйста, введите ваше имя пользователя или адрес "
+"электронной почты. На вашу почту придет письмо со ссылкой для подтверждения "
+"запроса."
+
+#: woocommerce/myaccount/form-lost-password.php:33
+msgid "Enter a new password below."
+msgstr "Введите новый пароль."
+
+#: woocommerce/myaccount/form-lost-password.php:52
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+"Здравствуйте <strong>%1$s</strong> (вы не %1$s? <a href=\"%2$s\">Выйти</a>)."
+
+#: woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+"В панели вашего аккаунта, вы можете просматривать ваши недавние заказы, "
+"настроить адрес доставки и реквизиты оплаты, а также <a href=\"%s\">изменять "
+"пароль и детали аккаунта</a>."
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr "Мои Адреса"
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr "Мой Адрес"
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Следующие адреса будут использованы при оформлении заказов по умолчанию."
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr "Вы еще не создали этот тип адреса."
+
+#: woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr "Доступные загрузки"
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] "%s загрузка остаётся"
+msgstr[1] "%s загрузки остаётся"
+msgstr[2] "%s загрузок остаётся"
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr "Последние заказы"
+
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr "Заказ"
+
+#: woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr "Дата"
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s для %s элемента"
+msgstr[1] "%s для %s элементов"
+msgstr[2] "%s для %s элементов"
+
+#: woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr "Отмена"
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr "Посмотреть"
+
+#: woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+"Заказ <mark class=“order-number”>%s</mark> был сделан <mark class=“order-"
+"date”>%s</mark> и в настоящее время <mark class=“order-status”>%s</mark>."
+
+#: woocommerce/myaccount/view-order.php:23 woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr "Все обновления заказа"
+
+#: woocommerce/myaccount/view-order.php:29 woocommerce/order/tracking.php:37
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+"Чтобы отследить заказ, введите ваш номер заказа в поле ниже и нажмите ввод. "
+"Номер заказа вы должны были получить по электронной почте при оформлении "
+"заказа."
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr "Номер заказа"
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr "Можно найти в электронном письме, подтверждающем ваш заказ."
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr "Адрес электронной почты покупателя для оплаты"
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+"Адрес электронной почты, который вы использовали при оформлении заказа."
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr "Трек номер"
+
+#: woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr "Детали заказа"
+
+#: woocommerce/order/order-details.php:66
+#, php-format
+msgid "Download file%s"
+msgstr "Скачать файл%s"
+
+#: woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr "Контактные данные"
+
+#: woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr "Телефон:"
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr "Отсутствует"
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Заказ %s который был сделан %s имеет статус &ldquo;%s&rdquo;"
+
+#: woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr "назад"
+
+#: woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr "и был завершен"
+
+#: woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr "назад"
+
+#: woocommerce/single-product-reviews.php:20
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s отзыв для %s"
+msgstr[1] "%s отзыва для %s"
+msgstr[2] "%s отзывов для %s"
+
+#: woocommerce/single-product-reviews.php:22
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: woocommerce/single-product-reviews.php:50
+msgid "There are no reviews yet."
+msgstr "Нет еще отзывов."
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Be the first to review"
+msgstr "Ваш комментарий здесь будет первым"
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Написать ответ для %s"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr "Ваша оценка"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr "Оценить&hellip;"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr "Отлично"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr "Хорошо"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr "Средне"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr "Неплохо"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr "Очень плохо"
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Review"
+msgstr "Ваш отзыв"
+
+#: woocommerce/single-product-reviews.php:102
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "Отзывы могут публиковать только зарегистрированные покупатели."
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Выбрать параметр"
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr "Сбросить выбор"
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+"Этот товар закончился на складе и недоступен. Позвоните в магазин и уточните "
+"наличие."
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Категория:"
+msgstr[1] "Категории:"
+msgstr[2] "Категорий:"
+
+#: woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Метка:"
+msgstr[1] "Метки:"
+msgstr[2] "Меток:"
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr "Вес"
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr "Размер"
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Рейтинг %s из 5"
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr "из 5"
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s отзыв клиента"
+msgstr[1] "%s отзыва клиента"
+msgstr[2] "%s отзывов клиента"
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Похожие товары"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Рейтинг %d из 5"
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr "Ваш комментарий еще проверяется"
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr "подтверждённый владелец"
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Description"
+msgstr "Описание"
+
+#: woocommerce/single-product/up-sells.php:40
+msgid "Related Rooms"
+msgstr "Похожие комнаты"
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "what kind of rooms we have"
+msgstr "какие у нас есть комнаты"
