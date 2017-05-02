@@ -482,7 +482,7 @@ function navigation_settings() {
 	$menu_markup = '<nav class="main-nav clearfix">%2$s</nav>';
 
 	if(empty($logo_col_size)) {
-		$logo_col_size = 2;
+		$logo_col_size = 4;
 	}
 
 	if(empty($menu_col_size)) {

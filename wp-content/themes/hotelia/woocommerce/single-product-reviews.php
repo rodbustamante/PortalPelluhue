@@ -44,7 +44,7 @@ if ( ! comments_open() )
 
 							<?php else : ?>
 
-								<p class="woocommerce-noreviews"><?php _e( 'There are no reviews yet.', 'woocommerce' ); ?></p>
+								<p class="woocommerce-noreviews"><?php _e( 'Sin comentarios aún', 'woocommerce' ); ?></p>
 
 							<?php endif; ?>
 						</div>
@@ -61,7 +61,7 @@ if ( ! comments_open() )
 								$commenter = wp_get_current_commenter();
 
 								$comment_form = array(
-									'title_reply'          => have_comments() ? __( 'Escribe un comentario', 'woocommerce' ) : __( 'Be the first to review', 'woocommerce' ) . ' &ldquo;' . get_the_title() . '&rdquo;',
+									'title_reply'          => have_comments() ? __( 'Escribe un comentario', 'woocommerce' ) : __( 'Sé el primero en comentar', 'woocommerce' ) . ' &ldquo;' . get_the_title() . '&rdquo;',
 									'title_reply_to'       => __( 'Leave a Reply to %s', 'woocommerce' ),
 									'comment_notes_before' => '',
 									'comment_notes_after'  => '',
@@ -96,7 +96,7 @@ if ( ! comments_open() )
 
 				<?php else : ?>
 
-					<p class="woocommerce-verification-required"><?php _e( 'Only logged in customers who have purchased this product may leave a review.', 'woocommerce' ); ?></p>
+					<p class="woocommerce-verification-required"><?php _e( 'Sólo usuarios registrados pueden comentar.', 'woocommerce' ); ?></p>
 
 				<?php endif; ?>
 

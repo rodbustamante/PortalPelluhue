@@ -13,6 +13,19 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 global $product, $woocommerce_loop;
 
+// se evalua que el producto no sea de hospedaje
+
+$category_ids = $product->category_ids;
+$isHosting = false; 
+	if (!empty($category_ids)) {
+		foreach ($category_ids as $key => $value) {
+			if ($value == 57) {
+				$isHosting = true;
+				break;
+			}
+		}		
+	}
+
 // Store loop count we're currently on
 if ( empty( $woocommerce_loop['loop'] ) )
 	$woocommerce_loop['loop'] = 0;
@@ -60,10 +73,18 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 			</a>
 		</h3>
 		<div class="rooms-description">
-			<?php the_excerpt(); ?>
+			<?php 
+				if ($isHosting) {
+					the_excerpt();
+				}
+			?>
 			<div class="rooms-footer clearfix">
 				
-				<?php wc_get_template( 'loop/price.php' ); ?>
+				<?php 
+					if ($isHosting) {
+						wc_get_template( 'loop/price.php' );
+					} 
+				?>
 				<a href="<?php the_permalink(); ?>" class="button-sm to-right grey text-black hover-orange soft-corners add_to_cart_button product_type_simple"><?php echo __('Ver Mas'); ?></a>
 				<?php //wc_get_template( 'loop/add-to-cart.php' ); ?>
 			</div>

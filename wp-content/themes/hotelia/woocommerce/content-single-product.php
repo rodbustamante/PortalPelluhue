@@ -10,6 +10,20 @@
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+global $post, $product;
+$category_ids = $product->category_ids;
+$isHosting = false; 
+	if (!empty($category_ids)) {
+		foreach ($category_ids as $key => $value) {
+			if ($value == 57) {
+				$isHosting = true;
+				break;
+			}
+		}		
+	}
+
+
 ?>
 
 <section class="box">
@@ -25,28 +39,31 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 <section class="box" style="padding:0px;">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="row">
-					<div class="col-md-6 text-center font-2x">
-						<?php
-						global $post, $product;
-						?>
-						<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+			<div class="row">
+				<div class="col-md-12">
+					<?php if ($isHosting): ?>
+					<div class="row">
+						<div class="col-md-6 text-center font-2x">
+							<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 
-							<p class="price"><?php echo $product->get_price_html(); ?></p>
+								<p class="price"><?php echo $product->get_price_html(); ?></p>
 
-							<meta itemprop="price" content="<?php echo $product->get_price(); ?>" />
+								<meta itemprop="price" content="<?php echo $product->get_price(); ?>" />
+							</div>
+						</div>
+						<div class="col-md-6">
+							<?php wc_get_template( 'single-product/meta.php' ); ?>
 						</div>
 					</div>
-					<div class="col-md-6">
-						<?php wc_get_template( 'single-product/meta.php' ); ?>
-					</div>
+					<br>
+					<?php endif; ?>
+					<?php 
+						wc_get_template( 'single-product/tabs/description.php', array(
+							'isHosting' => $isHosting
+						) ); 
+					?>				
 				</div>
-				<br>
-				<?php wc_get_template( 'single-product/tabs/description.php' ); ?>				
 			</div>
-		</div>
 		<div class="row">
 			<div class="col-md-12">
 				<?php comments_template(); ?>
